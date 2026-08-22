@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-14T13:32:08Z",
                 "owner": "zigtools",
                 "repo": "zls",
-                "stars": 5082
+                "stars": 5084
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 763201818,
                 "language": "Zig",
-                "last_commit": "2026-08-20T22:33:05Z",
+                "last_commit": "2026-08-21T20:07:27Z",
                 "owner": "neurocyte",
                 "repo": "flow",
-                "stars": 2181
+                "stars": 2184
               }
             },
             {
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 1137242502,
                 "language": "Zig",
-                "last_commit": "2026-08-21T06:27:43Z",
+                "last_commit": "2026-08-21T19:59:12Z",
                 "owner": "forketyfork",
                 "repo": "zwanzig",
                 "stars": 27
@@ -196,7 +196,7 @@
                 "last_commit": "2026-08-12T00:46:34Z",
                 "owner": "sb2bg",
                 "repo": "marionette",
-                "stars": 76
+                "stars": 77
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-15T09:49:31Z",
                 "owner": "justrach",
                 "repo": "nanobrew",
-                "stars": 1106
+                "stars": 1107
               }
             },
             {
@@ -260,7 +260,7 @@
                 "archived": false,
                 "id": 563690547,
                 "language": "Go",
-                "last_commit": "2026-08-21T07:08:32Z",
+                "last_commit": "2026-08-21T13:30:12Z",
                 "owner": "tristanisham",
                 "repo": "zvm",
                 "stars": 1047
@@ -290,10 +290,10 @@
                 "archived": false,
                 "id": 527757474,
                 "language": "Nix",
-                "last_commit": "2026-08-20T00:21:08Z",
+                "last_commit": "2026-08-22T00:20:42Z",
                 "owner": "mitchellh",
                 "repo": "zig-overlay",
-                "stars": 537
+                "stars": 538
               }
             },
             {
@@ -320,7 +320,7 @@
                 "archived": false,
                 "id": 741782669,
                 "language": "Zig",
-                "last_commit": "2026-08-21T01:26:55Z",
+                "last_commit": "2026-08-22T01:26:59Z",
                 "owner": "Cloudef",
                 "repo": "zig2nix",
                 "stars": 186
@@ -335,10 +335,10 @@
                 "archived": false,
                 "id": 1205189436,
                 "language": "Zig",
-                "last_commit": "2026-08-20T20:48:00Z",
+                "last_commit": "2026-08-21T20:26:50Z",
                 "owner": "indaco",
                 "repo": "malt",
-                "stars": 153
+                "stars": 154
               }
             },
             {
@@ -537,10 +537,10 @@
                 "archived": false,
                 "id": 475553026,
                 "language": "Zig",
-                "last_commit": "2026-08-21T05:08:20Z",
+                "last_commit": "2026-08-22T04:48:21Z",
                 "owner": "ghostty-org",
                 "repo": "ghostty",
-                "stars": 59990
+                "stars": 60043
               }
             },
             {
@@ -570,7 +570,7 @@
                 "last_commit": "2026-08-20T16:35:16Z",
                 "owner": "neurosnap",
                 "repo": "zmx",
-                "stars": 2059
+                "stars": 2064
               }
             },
             {
@@ -585,7 +585,7 @@
                 "last_commit": "2026-08-09T16:08:18Z",
                 "owner": "Illusionna",
                 "repo": "LocalTransfer",
-                "stars": 565
+                "stars": 567
               }
             },
             {
@@ -657,7 +657,7 @@
                 "archived": false,
                 "id": 1091845749,
                 "language": "Zig",
-                "last_commit": "2026-08-21T05:45:25Z",
+                "last_commit": "2026-08-22T06:46:17Z",
                 "owner": "forketyfork",
                 "repo": "architect",
                 "stars": 46
@@ -687,7 +687,7 @@
                 "archived": false,
                 "id": 958774934,
                 "language": "Zig",
-                "last_commit": "2026-06-02T22:48:22Z",
+                "last_commit": "2026-08-21T11:24:25Z",
                 "owner": "xcaeser",
                 "repo": "zig-dotenv",
                 "stars": 28
@@ -837,7 +837,7 @@
                 "archived": false,
                 "id": 1281028276,
                 "language": "Shell",
-                "last_commit": "2026-08-21T07:26:12Z",
+                "last_commit": "2026-08-22T06:49:40Z",
                 "owner": "bare-devcontainer",
                 "repo": "templates",
                 "stars": 1
@@ -877,7 +877,7 @@
                 "last_commit": "2026-05-04T01:12:52Z",
                 "owner": "andrewrk",
                 "repo": "poop",
-                "stars": 2027
+                "stars": 2028
               }
             },
             {
@@ -1212,7 +1212,7 @@
                 "last_commit": "2026-08-15T16:46:31Z",
                 "owner": "TheAlgorithms",
                 "repo": "Zig",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -1780,7 +1780,7 @@
                 "last_commit": "2026-07-21T13:31:02Z",
                 "owner": "ziglibs",
                 "repo": "known-folders",
-                "stars": 319
+                "stars": 320
               }
             },
             {
@@ -1795,7 +1795,7 @@
                 "last_commit": "2026-01-13T06:04:41Z",
                 "owner": "kubkon",
                 "repo": "zig-yaml",
-                "stars": 294
+                "stars": 295
               }
             },
             {
@@ -1840,7 +1840,7 @@
                 "last_commit": "2026-06-20T05:09:45Z",
                 "owner": "karlseguin",
                 "repo": "log.zig",
-                "stars": 191
+                "stars": 192
               }
             },
             {
@@ -1945,7 +1945,7 @@
                 "last_commit": "2026-08-11T17:08:50Z",
                 "owner": "OrlovEvgeny",
                 "repo": "serde.zig",
-                "stars": 81
+                "stars": 82
               }
             },
             {
@@ -2207,7 +2207,7 @@
                 "last_commit": "2026-08-17T19:16:19Z",
                 "owner": "rockorager",
                 "repo": "zeit",
-                "stars": 230
+                "stars": 231
               }
             },
             {
@@ -2349,7 +2349,7 @@
                 "last_commit": "2026-06-13T09:32:06Z",
                 "owner": "Hejsil",
                 "repo": "zig-clap",
-                "stars": 1603
+                "stars": 1604
               }
             },
             {
@@ -2364,7 +2364,7 @@
                 "last_commit": "2026-06-11T13:52:42Z",
                 "owner": "sam701",
                 "repo": "zig-cli",
-                "stars": 349
+                "stars": 350
               }
             },
             {
@@ -2394,7 +2394,7 @@
                 "last_commit": "2026-05-21T09:37:44Z",
                 "owner": "ikskuh",
                 "repo": "zig-args",
-                "stars": 305
+                "stars": 306
               }
             },
             {
@@ -2572,7 +2572,7 @@
                 "last_commit": "2026-07-17T05:22:40Z",
                 "owner": "mitchellh",
                 "repo": "libxev",
-                "stars": 3561
+                "stars": 3562
               }
             },
             {
@@ -2696,7 +2696,7 @@
                 "archived": false,
                 "id": 527142927,
                 "language": "Zig",
-                "last_commit": "2026-08-21T01:16:32Z",
+                "last_commit": "2026-08-22T01:12:26Z",
                 "owner": "lupyuen",
                 "repo": "pinephone-nuttx",
                 "stars": 102
@@ -2976,7 +2976,7 @@
                 "last_commit": "2026-07-23T01:40:51Z",
                 "owner": "marlersoft",
                 "repo": "zigwin32",
-                "stars": 448
+                "stars": 449
               }
             },
             {
@@ -2991,7 +2991,7 @@
                 "last_commit": "2023-08-21T22:29:23Z",
                 "owner": "jzck",
                 "repo": "kernel-zig",
-                "stars": 437
+                "stars": 438
               }
             },
             {
@@ -3298,7 +3298,7 @@
                 "last_commit": "2025-12-21T12:52:19Z",
                 "owner": "fubark",
                 "repo": "cyber",
-                "stars": 1515
+                "stars": 1517
               }
             },
             {
@@ -3355,7 +3355,7 @@
                 "archived": false,
                 "id": 856234366,
                 "language": "Zig",
-                "last_commit": "2026-08-19T11:36:19Z",
+                "last_commit": "2026-08-21T16:59:23Z",
                 "owner": "omdxp",
                 "repo": "fun",
                 "stars": 24
@@ -3622,10 +3622,10 @@
                 "archived": false,
                 "id": 613272866,
                 "language": "Zig",
-                "last_commit": "2026-08-12T06:54:50Z",
+                "last_commit": "2026-08-22T05:10:28Z",
                 "owner": "karlseguin",
                 "repo": "http.zig",
-                "stars": 1586
+                "stars": 1587
               }
             },
             {
@@ -3640,7 +3640,7 @@
                 "last_commit": "2026-08-04T11:56:21Z",
                 "owner": "sleep3r",
                 "repo": "mtproto.zig",
-                "stars": 1052
+                "stars": 1053
               }
             },
             {
@@ -3655,7 +3655,7 @@
                 "last_commit": "2026-08-18T16:18:51Z",
                 "owner": "tardy-org",
                 "repo": "zzz",
-                "stars": 772
+                "stars": 773
               }
             },
             {
@@ -3952,7 +3952,7 @@
                 "archived": false,
                 "id": 1296450280,
                 "language": "Zig",
-                "last_commit": "2026-08-15T22:24:04Z",
+                "last_commit": "2026-08-21T15:45:47Z",
                 "owner": "zig-nostr",
                 "repo": "nostr",
                 "stars": 8
@@ -4067,7 +4067,7 @@
                 "last_commit": "2026-06-01T18:59:43Z",
                 "owner": "zigzap",
                 "repo": "zap",
-                "stars": 3406
+                "stars": 3408
               }
             },
             {
@@ -4082,7 +4082,7 @@
                 "last_commit": "2026-08-12T14:27:51Z",
                 "owner": "kristoff-it",
                 "repo": "zine",
-                "stars": 1532
+                "stars": 1533
               }
             },
             {
@@ -4097,7 +4097,7 @@
                 "last_commit": "2026-06-12T18:19:05Z",
                 "owner": "jetzig-framework",
                 "repo": "jetzig",
-                "stars": 1507
+                "stars": 1506
               }
             },
             {
@@ -4142,7 +4142,7 @@
                 "last_commit": "2026-08-13T17:40:20Z",
                 "owner": "ziex-dev",
                 "repo": "ziex",
-                "stars": 318
+                "stars": 322
               }
             },
             {
@@ -4157,7 +4157,7 @@
                 "last_commit": "2026-04-15T11:48:32Z",
                 "owner": "zon-dev",
                 "repo": "zinc",
-                "stars": 182
+                "stars": 183
               }
             },
             {
@@ -4202,7 +4202,7 @@
                 "last_commit": "2026-08-07T13:05:28Z",
                 "owner": "llllOllOOll",
                 "repo": "spider",
-                "stars": 47
+                "stars": 46
               }
             },
             {
@@ -4247,7 +4247,7 @@
                 "last_commit": "2026-06-23T08:02:34Z",
                 "owner": "uzyn",
                 "repo": "passcay",
-                "stars": 36
+                "stars": 37
               }
             },
             {
@@ -4651,7 +4651,7 @@
                 "last_commit": "2026-06-21T15:48:35Z",
                 "owner": "malcolmstill",
                 "repo": "zware",
-                "stars": 411
+                "stars": 412
               }
             },
             {
@@ -4693,7 +4693,7 @@
                 "archived": false,
                 "id": 1154193071,
                 "language": "Zig",
-                "last_commit": "2026-08-21T03:56:03Z",
+                "last_commit": "2026-08-22T07:49:56Z",
                 "owner": "zwasm",
                 "repo": "zwasm",
                 "stars": 162
@@ -4859,7 +4859,7 @@
                 "last_commit": "2026-08-18T14:22:21Z",
                 "owner": "tigerbeetle",
                 "repo": "tigerbeetle",
-                "stars": 16856
+                "stars": 16873
               }
             },
             {
@@ -4874,7 +4874,7 @@
                 "last_commit": "2026-07-24T09:18:10Z",
                 "owner": "vrischmann",
                 "repo": "zig-sqlite",
-                "stars": 617
+                "stars": 616
               }
             },
             {
@@ -4934,7 +4934,7 @@
                 "last_commit": "2026-04-20T23:33:14Z",
                 "owner": "karlseguin",
                 "repo": "zuckdb.zig",
-                "stars": 186
+                "stars": 187
               }
             },
             {
@@ -4976,7 +4976,7 @@
                 "archived": false,
                 "id": 1066673908,
                 "language": "Zig",
-                "last_commit": "2026-08-16T22:15:51Z",
+                "last_commit": "2026-08-21T17:27:15Z",
                 "owner": "ochi-team",
                 "repo": "ochi",
                 "stars": 56
@@ -5136,7 +5136,7 @@
                 "last_commit": "2025-10-29T06:22:09Z",
                 "owner": "ziglibs",
                 "repo": "zlm",
-                "stars": 280
+                "stars": 281
               }
             },
             {
@@ -5230,10 +5230,10 @@
                 "archived": false,
                 "id": 858639154,
                 "language": "Zig",
-                "last_commit": "2026-08-20T16:59:27Z",
+                "last_commit": "2026-08-21T16:10:32Z",
                 "owner": "zml",
                 "repo": "zml",
-                "stars": 3994
+                "stars": 3998
               }
             },
             {
@@ -5248,7 +5248,7 @@
                 "last_commit": "2026-08-16T03:41:29Z",
                 "owner": "Marco-Christiani",
                 "repo": "zigrad",
-                "stars": 194
+                "stars": 195
               }
             },
             {
@@ -5345,7 +5345,7 @@
                 "last_commit": "2026-07-19T04:20:06Z",
                 "owner": "nullclaw",
                 "repo": "nullclaw",
-                "stars": 8037
+                "stars": 8043
               }
             },
             {
@@ -5357,10 +5357,10 @@
                 "archived": false,
                 "id": 1159656889,
                 "language": "Zig",
-                "last_commit": "2026-08-20T23:52:40Z",
+                "last_commit": "2026-08-22T00:35:29Z",
                 "owner": "ddalcu",
                 "repo": "mlx-serve",
-                "stars": 762
+                "stars": 768
               }
             },
             {
@@ -5487,7 +5487,7 @@
                 "last_commit": "2025-11-01T17:49:35Z",
                 "owner": "zerotech-studio",
                 "repo": "zack",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -5694,7 +5694,7 @@
                 "last_commit": "2026-08-18T18:08:30Z",
                 "owner": "Snektron",
                 "repo": "vulkan-zig",
-                "stars": 900
+                "stars": 901
               }
             },
             {
@@ -5739,7 +5739,7 @@
                 "last_commit": "2026-05-04T16:24:34Z",
                 "owner": "akhildevelops",
                 "repo": "cudaz",
-                "stars": 141
+                "stars": 142
               }
             },
             {
@@ -5833,10 +5833,10 @@
                 "archived": false,
                 "id": 1023522611,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T22:00:39Z",
+                "last_commit": "2026-08-22T02:17:05Z",
                 "owner": "anomalyco",
                 "repo": "opentui",
-                "stars": 13105
+                "stars": 13115
               }
             },
             {
@@ -5851,7 +5851,7 @@
                 "last_commit": "2026-08-20T21:46:03Z",
                 "owner": "rockorager",
                 "repo": "libvaxis",
-                "stars": 1964
+                "stars": 1971
               }
             },
             {
@@ -6245,10 +6245,10 @@
                 "archived": false,
                 "id": 492628993,
                 "language": "Zig",
-                "last_commit": "2026-08-20T13:26:41Z",
+                "last_commit": "2026-08-21T18:35:18Z",
                 "owner": "david-vanderson",
                 "repo": "dvui",
-                "stars": 1635
+                "stars": 1638
               }
             },
             {
@@ -6278,7 +6278,7 @@
                 "last_commit": "2026-08-14T05:03:09Z",
                 "owner": "meszmate",
                 "repo": "zigzag",
-                "stars": 519
+                "stars": 522
               }
             },
             {
@@ -6458,7 +6458,7 @@
                 "last_commit": "2026-07-01T03:51:29Z",
                 "owner": "happystraw",
                 "repo": "zig-webview",
-                "stars": 9
+                "stars": 10
               }
             }
           ],
@@ -6480,7 +6480,7 @@
                 "last_commit": "2026-05-23T01:41:18Z",
                 "owner": "hexops",
                 "repo": "mach",
-                "stars": 4824
+                "stars": 4826
               }
             },
             {
@@ -6492,10 +6492,10 @@
                 "archived": false,
                 "id": 169060349,
                 "language": "Zig",
-                "last_commit": "2026-08-20T17:41:40Z",
+                "last_commit": "2026-08-21T17:52:05Z",
                 "owner": "PixelGuys",
                 "repo": "Cubyz",
-                "stars": 3620
+                "stars": 3622
               }
             },
             {
@@ -6510,7 +6510,7 @@
                 "last_commit": "2026-03-08T20:33:12Z",
                 "owner": "zig-gamedev",
                 "repo": "zig-gamedev",
-                "stars": 2861
+                "stars": 2862
               }
             },
             {
@@ -6615,7 +6615,7 @@
                 "last_commit": "2026-05-24T18:50:36Z",
                 "owner": "zPSP-Dev",
                 "repo": "Zig-PSP",
-                "stars": 132
+                "stars": 133
               }
             },
             {
@@ -7106,10 +7106,10 @@
                 "archived": false,
                 "id": 310022924,
                 "language": "Zig",
-                "last_commit": "2026-07-23T02:30:28Z",
+                "last_commit": "2026-08-21T14:50:07Z",
                 "owner": "dmtrKovalenko",
                 "repo": "odiff",
-                "stars": 3161
+                "stars": 3164
               }
             },
             {
@@ -7124,7 +7124,7 @@
                 "last_commit": "2026-08-18T18:59:45Z",
                 "owner": "zigimg",
                 "repo": "zigimg",
-                "stars": 834
+                "stars": 836
               }
             },
             {
@@ -7154,7 +7154,7 @@
                 "last_commit": "2026-08-16T06:00:49Z",
                 "owner": "arrufat",
                 "repo": "zignal",
-                "stars": 459
+                "stars": 460
               }
             },
             {
@@ -7272,7 +7272,7 @@
                 "last_commit": "2026-08-18T18:05:22Z",
                 "owner": "floooh",
                 "repo": "sokol-zig",
-                "stars": 720
+                "stars": 721
               }
             },
             {
@@ -7287,7 +7287,7 @@
                 "last_commit": "2026-08-04T21:59:54Z",
                 "owner": "natecraddock",
                 "repo": "ziglua",
-                "stars": 517
+                "stars": 518
               }
             },
             {
@@ -7302,7 +7302,7 @@
                 "last_commit": "2026-04-17T04:05:54Z",
                 "owner": "mitchellh",
                 "repo": "zig-objc",
-                "stars": 344
+                "stars": 345
               }
             },
             {
@@ -7471,10 +7471,10 @@
                 "archived": false,
                 "id": 13836499,
                 "language": "C",
-                "last_commit": "2026-08-20T14:25:23Z",
+                "last_commit": "2026-08-21T19:14:57Z",
                 "owner": "raysan5",
                 "repo": "raylib",
-                "stars": 34414
+                "stars": 34421
               }
             },
             {
@@ -7504,7 +7504,7 @@
                 "last_commit": "2026-08-20T12:22:24Z",
                 "owner": "allyourcodebase",
                 "repo": "ffmpeg",
-                "stars": 316
+                "stars": 317
               }
             },
             {
@@ -7922,7 +7922,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:01:58.211Z",
+    "last_updated": "2026-08-22T07:50:34.561Z",
     "original_repository": "zigcc/awesome-zig",
     "original_repository_id": 579248567,
     "original_repository_sha": "df3b2acd2aa1ee449b183d4eeedac29ff3fdd907",

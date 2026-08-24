@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Zigistry/Zigistry",
+              "description": "A place where you can find all the libraries that suit your Zig lang needs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 818631597,
+                "language": "Svelte",
+                "last_commit": "2026-08-23T20:55:19Z",
+                "owner": "Zigistry",
+                "repo": "Zigistry",
+                "stars": 707
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "zigtools/zls",
               "description": "The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def! installation.",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-08-14T13:32:08Z",
                 "owner": "zigtools",
                 "repo": "zls",
-                "stars": 5087
+                "stars": 5089
               }
             },
             {
@@ -32,7 +54,7 @@
                 "last_commit": "2026-08-21T20:07:27Z",
                 "owner": "neurocyte",
                 "repo": "flow",
-                "stars": 2183
+                "stars": 2184
               }
             },
             {
@@ -193,7 +215,7 @@
                 "archived": false,
                 "id": 1212704894,
                 "language": "Zig",
-                "last_commit": "2026-08-12T00:46:34Z",
+                "last_commit": "2026-08-24T14:05:39Z",
                 "owner": "sb2bg",
                 "repo": "marionette",
                 "stars": 78
@@ -248,7 +270,7 @@
                 "last_commit": "2026-08-15T09:49:31Z",
                 "owner": "justrach",
                 "repo": "nanobrew",
-                "stars": 1107
+                "stars": 1108
               }
             },
             {
@@ -335,7 +357,7 @@
                 "archived": false,
                 "id": 1205189436,
                 "language": "Zig",
-                "last_commit": "2026-08-24T07:23:53Z",
+                "last_commit": "2026-08-24T09:33:57Z",
                 "owner": "indaco",
                 "repo": "malt",
                 "stars": 155
@@ -368,7 +390,7 @@
                 "last_commit": "2026-08-15T07:19:37Z",
                 "owner": "vezel-dev",
                 "repo": "zig-sdk",
-                "stars": 110
+                "stars": 111
               }
             },
             {
@@ -537,10 +559,10 @@
                 "archived": false,
                 "id": 475553026,
                 "language": "Zig",
-                "last_commit": "2026-08-24T07:55:02Z",
+                "last_commit": "2026-08-24T13:58:13Z",
                 "owner": "ghostty-org",
                 "repo": "ghostty",
-                "stars": 60129
+                "stars": 60151
               }
             },
             {
@@ -837,7 +859,7 @@
                 "archived": false,
                 "id": 1281028276,
                 "language": "Shell",
-                "last_commit": "2026-08-24T07:10:17Z",
+                "last_commit": "2026-08-24T08:43:18Z",
                 "owner": "bare-devcontainer",
                 "repo": "templates",
                 "stars": 1
@@ -862,6 +884,28 @@
           "description": null,
           "node_type": "group",
           "title": "Utility"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kubkon/bold",
+              "description": "A drop-in replacement for Apple’s system linker .",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 332143263,
+                "language": "Zig",
+                "last_commit": "2026-01-06T23:03:39Z",
+                "owner": "kubkon",
+                "repo": "bold",
+                "stars": 341
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Linker"
         },
         {
           "children": [
@@ -2551,6 +2595,28 @@
           "description": null,
           "node_type": "group",
           "title": "Command Line and Argument Parser"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cryptocode/zigfsm",
+              "description": "Zigfsm is a finite state machine library for Zig.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449468088,
+                "language": "Zig",
+                "last_commit": "2026-04-17T11:07:47Z",
+                "owner": "cryptocode",
+                "repo": "zigfsm",
+                "stars": 196
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Finite State Machine"
         }
       ],
       "title": "Language Essentials"
@@ -2572,7 +2638,7 @@
                 "last_commit": "2026-07-17T05:22:40Z",
                 "owner": "mitchellh",
                 "repo": "libxev",
-                "stars": 3565
+                "stars": 3567
               }
             },
             {
@@ -2654,6 +2720,28 @@
           "description": null,
           "node_type": "group",
           "title": "Asynchronous Runtime"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "g41797/mailbox",
+              "description": "A convenient inter-thread communication mechanism.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 836068877,
+                "language": "Zig",
+                "last_commit": "2026-06-06T05:04:01Z",
+                "owner": "g41797",
+                "repo": "mailbox",
+                "stars": 121
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multithreading"
         },
         {
           "children": [
@@ -3283,7 +3371,7 @@
                 "last_commit": "2026-08-20T08:33:08Z",
                 "owner": "buzz-language",
                 "repo": "buzz",
-                "stars": 1526
+                "stars": 1528
               }
             },
             {
@@ -3637,10 +3725,10 @@
                 "archived": false,
                 "id": 1195159291,
                 "language": "Zig",
-                "last_commit": "2026-08-22T18:22:32Z",
+                "last_commit": "2026-08-24T12:58:26Z",
                 "owner": "sleep3r",
                 "repo": "mtproto.zig",
-                "stars": 1272
+                "stars": 1315
               }
             },
             {
@@ -3652,7 +3740,7 @@
                 "archived": false,
                 "id": 821579832,
                 "language": "Zig",
-                "last_commit": "2026-08-23T00:42:09Z",
+                "last_commit": "2026-08-24T11:35:21Z",
                 "owner": "tardy-org",
                 "repo": "zzz",
                 "stars": 773
@@ -4057,6 +4145,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "lightpanda-io/browser",
+              "description": "Headless browser designed for AI and automation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598667202,
+                "language": "Zig",
+                "last_commit": "2026-08-24T13:51:19Z",
+                "owner": "lightpanda-io",
+                "repo": "browser",
+                "stars": 34218
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "zigzap/zap",
               "description": "Blazingly fast web backends in Zig.",
               "children": [],
@@ -4109,7 +4219,7 @@
                 "archived": false,
                 "id": 752374498,
                 "language": "Zig",
-                "last_commit": "2026-08-20T10:24:10Z",
+                "last_commit": "2026-08-24T09:56:59Z",
                 "owner": "cztomsik",
                 "repo": "tokamak",
                 "stars": 632
@@ -4693,7 +4803,7 @@
                 "archived": false,
                 "id": 1154193071,
                 "language": "Zig",
-                "last_commit": "2026-08-24T07:55:12Z",
+                "last_commit": "2026-08-24T14:05:13Z",
                 "owner": "zwasm",
                 "repo": "zwasm",
                 "stars": 165
@@ -4859,7 +4969,7 @@
                 "last_commit": "2026-08-18T14:22:21Z",
                 "owner": "tigerbeetle",
                 "repo": "tigerbeetle",
-                "stars": 16896
+                "stars": 16898
               }
             },
             {
@@ -4979,7 +5089,7 @@
                 "last_commit": "2026-08-21T17:27:15Z",
                 "owner": "ochi-team",
                 "repo": "ochi",
-                "stars": 57
+                "stars": 59
               }
             },
             {
@@ -5223,6 +5333,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "attron/astroz",
+              "description": "Spacecraft and Astronomical Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 819657891,
+                "language": "Zig",
+                "last_commit": "2026-04-23T04:38:36Z",
+                "owner": "ATTron",
+                "repo": "astroz",
+                "stars": 274
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scientific Computation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "zml",
               "description": "A high performance machine learning stack for Zig.",
               "children": [],
@@ -5230,10 +5362,10 @@
                 "archived": false,
                 "id": 858639154,
                 "language": "Zig",
-                "last_commit": "2026-08-24T08:05:23Z",
+                "last_commit": "2026-08-24T14:06:31Z",
                 "owner": "zml",
                 "repo": "zml",
-                "stars": 3999
+                "stars": 4000
               }
             },
             {
@@ -5357,10 +5489,10 @@
                 "archived": false,
                 "id": 1159656889,
                 "language": "Zig",
-                "last_commit": "2026-08-24T06:31:48Z",
+                "last_commit": "2026-08-24T13:22:31Z",
                 "owner": "ddalcu",
                 "repo": "mlx-serve",
-                "stars": 787
+                "stars": 790
               }
             },
             {
@@ -5375,7 +5507,7 @@
                 "last_commit": "2026-08-02T02:02:44Z",
                 "owner": "cgbur",
                 "repo": "llama2.zig",
-                "stars": 218
+                "stars": 219
               }
             },
             {
@@ -5435,7 +5567,7 @@
                 "last_commit": "2023-07-24T01:38:54Z",
                 "owner": "EugenHotaj",
                 "repo": "zig_gpt2",
-                "stars": 39
+                "stars": 40
               }
             },
             {
@@ -5465,7 +5597,7 @@
                 "last_commit": "2026-07-02T14:32:42Z",
                 "owner": "cognisoc",
                 "repo": "zigllm",
-                "stars": 9
+                "stars": 10
               }
             }
           ],
@@ -5833,10 +5965,10 @@
                 "archived": false,
                 "id": 1023522611,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:11:18Z",
+                "last_commit": "2026-08-24T13:03:42Z",
                 "owner": "anomalyco",
                 "repo": "opentui",
-                "stars": 13135
+                "stars": 13140
               }
             },
             {
@@ -7471,10 +7603,10 @@
                 "archived": false,
                 "id": 13836499,
                 "language": "C",
-                "last_commit": "2026-08-23T19:05:37Z",
+                "last_commit": "2026-08-24T11:34:47Z",
                 "owner": "raysan5",
                 "repo": "raylib",
-                "stars": 34446
+                "stars": 34454
               }
             },
             {
@@ -7922,7 +8054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:08:43.597Z",
+    "last_updated": "2026-08-24T14:06:43.126Z",
     "original_repository": "zigcc/awesome-zig",
     "original_repository_id": 579248567,
     "original_repository_sha": "df3b2acd2aa1ee449b183d4eeedac29ff3fdd907",

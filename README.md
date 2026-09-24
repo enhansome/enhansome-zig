@@ -88,7 +88,7 @@
 
 ### Community
 
-* [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) ⭐ 709 | 🐛 6 | 🌐 Svelte | 📅 2026-09-21 - A place where you can find all the libraries that suit your Zig lang needs.
+* [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) ⭐ 710 | 🐛 6 | 🌐 Svelte | 📅 2026-09-21 - A place where you can find all the libraries that suit your Zig lang needs.
 * [Ziggit](https://ziggit.dev/) - The Zig forum.
 * [Discord](https://discord.gg/zig) - Official Zig Discord server.
 * [ZigCC](https://ziglang.cc) - Chinese Zig community.
@@ -97,8 +97,8 @@
 
 ### Text Editors
 
-* [zigtools/zls](https://github.com/zigtools/zls) ⭐ 5,147 | 🐛 171 | 🌐 Zig | 📅 2026-09-11 - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def! [installation](https://zigtools.org/zls/install/).
-* [neurocyte/flow](https://github.com/neurocyte/flow) ⭐ 2,422 | 🐛 79 | 🌐 Zig | 📅 2026-09-23 - Flow Control - a programmer's text editor written in Zig.
+* [zigtools/zls](https://github.com/zigtools/zls) ⭐ 5,148 | 🐛 171 | 🌐 Zig | 📅 2026-09-11 - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def! [installation](https://zigtools.org/zls/install/).
+* [neurocyte/flow](https://github.com/neurocyte/flow) ⭐ 2,430 | 🐛 78 | 🌐 Zig | 📅 2026-09-24 - Flow Control - a programmer's text editor written in Zig.
 * [zed-extensions/Zig](https://github.com/zed-extensions/zig) ⭐ 91 | 🐛 15 | 🌐 Rust | 📅 2026-06-07 - Zig extension for Zed editor.
 * [jinzhongjia/zig-lamp](https://github.com/jinzhongjia/zig-lamp) ⭐ 42 | 🐛 2 | 🌐 Lua | 📅 2026-05-04 - Improve the Zig development experience in Neovim.
 * [jinzhongjia/znvim](https://github.com/jinzhongjia/znvim) ⭐ 30 | 🐛 1 | 🌐 Zig | 📅 2026-02-06 - Neovim remote rpc client implementation with Zig.
@@ -125,17 +125,17 @@
 ### Package and Version Manager
 
 * [marler8997/zigup](https://github.com/marler8997/zigup) ⭐ 1,125 | 🐛 54 | 🌐 Zig | 📅 2025-06-14 - Download and manage Zig compilers.
-* [justrach/nanobrew](https://github.com/justrach/nanobrew) ⭐ 1,121 | 🐛 3 | 🌐 Zig | 📅 2026-09-21 - A fast macOS package manager written in Zig.
-* [tristanisham/zvm](https://github.com/tristanisham/zvm) ⭐ 1,063 | 🐛 3 | 🌐 Go | 📅 2026-09-23 - Lets you easily install/upgrade between different versions of Zig. ZLS install can be included. (written in Go).
+* [justrach/nanobrew](https://github.com/justrach/nanobrew) ⭐ 1,122 | 🐛 7 | 🌐 Zig | 📅 2026-09-24 - A fast macOS package manager written in Zig.
+* [tristanisham/zvm](https://github.com/tristanisham/zvm) ⭐ 1,064 | 🐛 3 | 🌐 Go | 📅 2026-09-24 - Lets you easily install/upgrade between different versions of Zig. ZLS install can be included. (written in Go).
 * [nektro/zigmod](https://github.com/nektro/zigmod) ⭐ 946 | 🐛 18 | 🌐 Zig | 📅 2026-09-04 - A package manager for the Zig programming language.
-* [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) ⭐ 549 | 🐛 10 | 🌐 Nix | 📅 2026-09-23 - Nix flake for the Zig compiler.
+* [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) ⭐ 549 | 🐛 10 | 🌐 Nix | 📅 2026-09-24 - Nix flake for the Zig compiler.
 * [mlugg/setup-zig](https://github.com/mlugg/setup-zig) ⭐ 238 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-19 - Install a Zig compiler for usage in GitHub Actions workflows.
-* [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) ⭐ 191 | 🐛 7 | 🌐 Zig | 📅 2026-09-23 - Flake for packaging, building and running Zig projects.
-* [indaco/malt](https://github.com/indaco/malt) ⭐ 169 | 🐛 3 | 🌐 Zig | 📅 2026-09-23 - Homebrew's whole ecosystem, none of its weight: a single Zig binary with native post\_install and a themeable TUI and CLI.
+* [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) ⭐ 191 | 🐛 7 | 🌐 Zig | 📅 2026-09-24 - Flake for packaging, building and running Zig projects.
+* [indaco/malt](https://github.com/indaco/malt) ⭐ 169 | 🐛 2 | 🌐 Zig | 📅 2026-09-24 - Homebrew's whole ecosystem, none of its weight: a single Zig binary with native post\_install and a themeable TUI and CLI.
 * [nix-community/zon2nix](https://github.com/nix-community/zon2nix) ⭐ 126 | 🐛 14 | 🌐 Zig | 📅 2026-09-14 - Convert dependencies in build.zig.zon files to Nix expressions.
 * [vezel-dev/zig-sdk](https://github.com/vezel-dev/zig-sdk) ⭐ 111 | 🐛 19 | 🌐 C# | 📅 2026-09-23 - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 * [zigtools/zpm](https://github.com/zigtools/zpm) ⭐ 104 | 🐛 0 | 🌐 Nix | 📅 2024-05-29 - Zig package manager helper.
-* [asdf-community/asdf-zig](https://github.com/asdf-community/asdf-zig) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2026-08-14 - Zig plugin for the [asdf](https://github.com/asdf-vm/asdf) ⭐ 25,589 | 🐛 146 | 🌐 Go | 📅 2026-09-22 version manager.
+* [asdf-community/asdf-zig](https://github.com/asdf-community/asdf-zig) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2026-08-14 - Zig plugin for the [asdf](https://github.com/asdf-vm/asdf) ⭐ 25,592 | 🐛 146 | 🌐 Go | 📅 2026-09-22 version manager.
 * [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) ⭐ 74 | 🐛 2 | 🌐 Zig | 📅 2026-09-03 - A fast and simple Zig version manager written in Zig.
 * [weezy20/zv](https://github.com/weezy20/zv) ⭐ 54 | 🐛 0 | 🌐 Rust | 📅 2026-06-11 - Fast Zig/ZLS version manager + project starter kit written in Rust. Binaries available for macOS/Windows/Linux.
 * [Cloudef/nix-zig-stdenv](https://github.com/Cloudef/nix-zig-stdenv) ⚠️ Archived - Zig based cross-compiling toolchain.
@@ -147,10 +147,10 @@
 
 ### Utility
 
-* [ghostty](https://github.com/ghostty-org/ghostty) ⭐ 61,453 | 🐛 252 | 🌐 Zig | 📅 2026-09-22 - Modern terminal emulator written in Zig.
+* [ghostty](https://github.com/ghostty-org/ghostty) ⭐ 61,500 | 🐛 256 | 🌐 Zig | 📅 2026-09-24 - Modern terminal emulator written in Zig.
 * [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) ⭐ 4,918 | 🐛 25 | 🌐 Zig | 📅 2025-01-02 - Container image to single executable compiler.
-* [zmx](https://github.com/neurosnap/zmx) ⭐ 2,164 | 🐛 30 | 🌐 Zig | 📅 2026-09-19 - Session persistence for terminal processes.
-* [Illusionna/LocalTransfer](https://github.com/Illusionna/LocalTransfer) ⭐ 614 | 🐛 1 | 🌐 Zig | 📅 2026-09-03 - A fast cross-platform HTTP file server.
+* [zmx](https://github.com/neurosnap/zmx) ⭐ 2,166 | 🐛 30 | 🌐 Zig | 📅 2026-09-19 - Session persistence for terminal processes.
+* [Illusionna/LocalTransfer](https://github.com/Illusionna/LocalTransfer) ⭐ 615 | 🐛 1 | 🌐 Zig | 📅 2026-09-03 - A fast cross-platform HTTP file server.
 * [Arnau478/hevi](https://github.com/Arnau478/hevi) ⚠️ Archived - A minimalistic and modernized hex viewer, written in Zig.
 * [BrookJeynes/jido](https://github.com/BrookJeynes/jido) ⭐ 83 | 🐛 2 | 🌐 Zig | 📅 2026-09-12 - Jido (formerly known as zte) is a small terminal file explorer, written in Zig.
 * [midasdf/zt](https://github.com/midasdf/zt) ⭐ 71 | 🐛 0 | 🌐 Zig | 📅 2026-07-04 - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
@@ -158,17 +158,17 @@
 * [forketyfork/architect](https://github.com/forketyfork/architect) ⭐ 50 | 🐛 8 | 🌐 Zig | 📅 2026-09-13 - A flexible terminal grid for multi-agent AI workflows.
 * [rockorager/zzdoc](https://github.com/rockorager/zzdoc) ⭐ 37 | 🐛 0 | 🌐 Zig | 📅 2026-05-01 - A scdoc-compatible manpage compiler for use in build.zig.
 * [xcaeser/zig-dotenv](https://github.com/xcaeser/zig-dotenv) ⭐ 30 | 🐛 2 | 🌐 Zig | 📅 2026-08-29 - A powerful Zig library for loading, parsing, and managing environment variables from .env files.
-* [Decryptu/zigdex](https://github.com/Decryptu/zigdex) ⭐ 22 | 🐛 0 | 🌐 Zig | 📅 2026-02-12 - Display Pokémon sprites in your terminal. A Zig rewrite of pokeget.
+* [Decryptu/zigdex](https://github.com/Decryptu/zigdex) ⭐ 22 | 🐛 0 | 🌐 Zig | 📅 2026-09-23 - Display Pokémon sprites in your terminal. A Zig rewrite of pokeget.
 * [gaskam/workspace](https://github.com/gaskam/workspace) ⭐ 18 | 🐛 9 | 🌐 Zig | 📅 2025-07-05 - A powerful Zig-based tool to manage all your GitHub repositories with ease.
-* [mtxr/claude-switch](https://github.com/mtxr/claude-switch) ⭐ 9 | 🐛 0 | 🌐 Zig | 📅 2026-06-11 - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
+* [mtxr/claude-switch](https://github.com/mtxr/claude-switch) ⭐ 10 | 🐛 1 | 🌐 Zig | 📅 2026-06-11 - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
 * [gauravnumber/move.zig](https://github.com/gauravnumber/move.zig) ⭐ 6 | 🐛 1 | 🌐 Zig | 📅 2025-05-28 - Zig-based mv with auto conflict resolution.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) ⭐ 6 | 🐛 0 | 🌐 Zig | 📅 2026-08-23 - Re-write of geteltorito in Zig.
-* [ktarasov/check\_links](https://github.com/ktarasov/check_links) ⭐ 5 | 🐛 0 | 🌐 Zig | 📅 2026-09-09 - A command-line utility (CLI) written in Zig for checking links on a web page. AI-assisted.
+* [ktarasov/check\_links](https://github.com/ktarasov/check_links) ⭐ 5 | 🐛 0 | 🌐 Zig | 📅 2026-09-24 - A command-line utility (CLI) written in Zig for checking links on a web page. AI-assisted.
 * [ktarasov/zigrep](https://github.com/ktarasov/zigrep) ⭐ 3 | 🐛 0 | 🌐 Zig | 📅 2026-03-10 - A training project on the implementation of the similarity of the grep utility in Linux in the Zig language.
 * [zdu](https://github.com/mjgil-zig/zdu) ⭐ 3 | 🐛 0 | 🌐 Zig | 📅 2026-06-08 - A fast, low-memory TUI disk usage analyzer written in Zig.
 * [ghext](https://github.com/charlesrocket/ghext) ⭐ 3 | 🐛 0 | 🌐 Zig | 📅 2026-07-06 - A small library for extracting head commits from Git repositories.
 * [deatil/zig-dotenv](https://github.com/deatil/zig-dotenv) ⭐ 2 | 🐛 0 | 🌐 Zig | 📅 2026-06-19 - A parse and set env library for Zig.
-* [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/zig) ⭐ 1 | 🐛 1 | 🌐 Shell | 📅 2026-09-22 - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/zig) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2026-09-23.
+* [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/zig) ⭐ 1 | 🐛 1 | 🌐 Shell | 📅 2026-09-24 - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/zig) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2026-09-24.
 * [lkraider/keywise](https://github.com/lkraider/keywise) ⭐ 1 | 🐛 0 | 🌐 Zig | 📅 2026-09-07 - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 * [copyleftdev/whatthediff](https://github.com/copyleftdev/whatthediff) ⭐ 0 | 🐛 0 | 🌐 Zig | 📅 2026-07-19 - Deterministic semantic diff across many files at once — finds consensus, drift, and outliers with inspectable evidence, from configs and JSON/YAML/XML/PDF to executables (SSDeep-style fuzzy analysis). Zero dependencies.
 * [deatil/zig-rsa](https://github.com/deatil/zig-rsa) ⭐ 0 | 🐛 0 | 🌐 Zig | 📅 2026-09-23 - An RSA library for Zig. No-AI.
@@ -185,7 +185,7 @@
 
 ### Performance Benchmark
 
-* [andrewrk/poop](https://github.com/andrewrk/poop) ⭐ 2,041 | 🐛 29 | 🌐 Zig | 📅 2026-05-04 - CLI Performance Observer written in Zig.
+* [andrewrk/poop](https://github.com/andrewrk/poop) ⭐ 2,043 | 🐛 29 | 🌐 Zig | 📅 2026-05-04 - CLI Performance Observer written in Zig.
 * [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) ⚠️ Archived - Performance Tracking for Zig.
 * [hendriknielaender/zBench](https://github.com/hendriknielaender/zBench) ⭐ 229 | 🐛 8 | 🌐 Zig | 📅 2026-06-24 - Simple benchmarking library.
 * [zackradisic/rust-vs-zig](https://github.com/zackradisic/rust-vs-zig) ⭐ 211 | 🐛 2 | 🌐 Rust | 📅 2023-06-21 - This is an experiment to evaluate Rust vs. Zig by writing a bytecode interpreter with GC in both languages and comparing them.
@@ -200,7 +200,7 @@
 * [fengb/zee\_alloc](https://github.com/fengb/zee_alloc) ⚠️ Archived - Tiny Zig allocator primarily targeting WebAssembly.
 * [Aandreba/zigrc](https://github.com/Aandreba/zigrc) ⭐ 93 | 🐛 0 | 🌐 Zig | 📅 2026-04-24 - Zig reference-counted pointers inspired by Rust's Rc and Arc. [aandreba.github.io/zigrc/](https://aandreba.github.io/zigrc/).
 * [suirad/adma](https://github.com/suirad/adma) ⭐ 66 | 🐛 0 | 🌐 Zig | 📅 2021-01-27 - A general purpose, multithreaded capable slab allocator for Zig.
-* [dweiller/zimalloc](https://github.com/dweiller/zimalloc) ⭐ 48 | 🐛 7 | 🌐 Zig | 📅 2025-10-07 - A general purpose allocator for Zig, inspired by [mimalloc](https://github.com/microsoft/mimalloc) ⭐ 13,393 | 🐛 299 | 🌐 C | 📅 2026-09-22.
+* [dweiller/zimalloc](https://github.com/dweiller/zimalloc) ⭐ 48 | 🐛 7 | 🌐 Zig | 📅 2025-10-07 - A general purpose allocator for Zig, inspired by [mimalloc](https://github.com/microsoft/mimalloc) ⭐ 13,397 | 🐛 298 | 🌐 C | 📅 2026-09-22.
 * [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) ⚠️ Archived - A super simple mark-and-sweep garbage collector written in Zig.
 * [rdunnington/zig-stable-array](https://github.com/rdunnington/zig-stable-array) ⭐ 31 | 🐛 0 | 🌐 Zig | 📅 2026-05-22 - Address-stable array with a max size that allocates directly from virtual memory.
 * [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) ⭐ 28 | 🐛 0 | 🌐 Zig | 📅 2021-07-21 - A general-purpose memory allocator for Zig.
@@ -220,7 +220,7 @@
 * [deckarep/ziglang-set](https://github.com/deckarep/ziglang-set) ⭐ 109 | 🐛 5 | 🌐 Zig | 📅 2026-04-23 - A generic and general purpose Set implementation for the Zig language.
 * [williamw520/toposort](https://github.com/williamw520/toposort) ⭐ 97 | 🐛 0 | 🌐 Zig | 📅 2025-12-13 - Topological sort library that produces topological ordered nodes and dependence-free subsets.
 * [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) ⭐ 83 | 🐛 0 | 🌐 Zig | 📅 2023-01-10 - Production-ready Cuckoo Filters for any C ABI compatible target.
-* [hello-algo-zig](https://github.com/codingonion/hello-algo-zig) ⭐ 82 | 🐛 0 | 🌐 Zig | 📅 2023-07-16 - Zig programming language codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) ⭐ 130,407 | 🐛 40 | 🌐 Java | 📅 2026-08-17 about data structures and algorithms.
+* [hello-algo-zig](https://github.com/codingonion/hello-algo-zig) ⭐ 82 | 🐛 0 | 🌐 Zig | 📅 2023-07-16 - Zig programming language codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) ⭐ 130,447 | 🐛 40 | 🌐 Java | 📅 2026-08-17 about data structures and algorithms.
 * [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) ⭐ 82 | 🐛 1 | 🌐 Zig | 📅 2024-06-15 - Sparse sets for Zig, supporting both SOA and AOS style.
 * [alichraghi/zort](https://github.com/alichraghi/zort) ⭐ 81 | 🐛 1 | 🌐 Zig | 📅 2026-08-13 - Zort: Sorting algorithms in Zig.
 * [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) ⭐ 48 | 🐛 2 | 🌐 Zig | 📅 2023-12-08 - Linq in Zig.
@@ -292,7 +292,7 @@
 * [MahBestBro/regex](https://github.com/MahBestBro/regex) ⭐ 5 | 🐛 0 | 🌐 Zig | 📅 2023-04-12 - A single file regex library written in and for Zig.
 * [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) ⭐ 2 | 🐛 1 | 🌐 Zig | 📅 2019-03-05 - Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
 * [npmonster/yayl](https://github.com/npmonster/yayl) ⭐ 2 | 🐛 0 | 🌐 Zig | 📅 2026-09-15 - YAML 1.2 parser, editor and emitter for Zig. Byte-faithful round trips keep untouched bytes, comments and layout intact. AI-assisted.
-* [pedronaugusto/strand](https://github.com/pedronaugusto/strand) ⭐ 0 | 🐛 0 | 🌐 Zig | 📅 2026-09-23 - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
+* [pedronaugusto/strand](https://github.com/pedronaugusto/strand) ⭐ 0 | 🐛 0 | 🌐 Zig | 📅 2026-09-24 - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
 * [demizer/markzig](https://github.com/demizer/markzig) - Pure Zig Markdown Parser.
 * [javiorfo/prettizy](https://github.com/javiorfo/prettizy) - Zig library to prettify JSON and XML strings.
 * [javiorfo/zig-epub](https://github.com/javiorfo/zig-epub) - Minimal Zig library for creating EPUB files.
@@ -311,7 +311,7 @@
 * [clickingbuttons/datetime](https://github.com/clickingbuttons/datetime) ⭐ 18 | 🐛 2 | 🌐 Zig | 📅 2025-05-09 - Generic Date, Time, and DateTime library.
 * [deatil/zig-time](https://github.com/deatil/zig-time) ⭐ 12 | 🐛 0 | 🌐 Zig | 📅 2026-07-04 - A date and time parse and format library for Zig.
 * [leroycep/zig-tzif](https://github.com/leroycep/zig-tzif) ⭐ 9 | 🐛 0 | 🌐 Zig | 📅 2024-07-26 - [TZif](https://datatracker.ietf.org/doc/html/rfc8536) parser that also handles POSIX timezone strings.
-* [scento/zig-date](https://github.com/scento/zig-date) ⭐ 7 | 🐛 0 | 🌐 Zig | 📅 2023-03-26 - Time and date for Zig. Zig-date is a date and time library for the Zig, inspired by the popular Rust library [chrono](https://github.com/chronotope/chrono) ⭐ 3,912 | 🐛 193 | 🌐 Rust | 📅 2026-09-07.
+* [scento/zig-date](https://github.com/scento/zig-date) ⭐ 7 | 🐛 0 | 🌐 Zig | 📅 2023-03-26 - Time and date for Zig. Zig-date is a date and time library for the Zig, inspired by the popular Rust library [chrono](https://github.com/chronotope/chrono) ⭐ 3,913 | 🐛 193 | 🌐 Rust | 📅 2026-09-07.
 * [leroycep/chrono-zig](https://github.com/leroycep/chrono-zig) ⭐ 6 | 🐛 0 | 🌐 Zig | 📅 2024-04-24 - Zig port of the Rust chrono crate.
 * [travisstaloch/date-zig](https://github.com/travisstaloch/date-zig) ⭐ 5 | 🐛 0 | 🌐 Zig | 📅 2023-12-17 - Fast calendar algorithms ported to Zig (Cassio Neri's [EAF](https://github.com/cassioneri/eaf) ⭐ 63 | 🐛 0 | 🌐 C++ | 📅 2026-06-27).
 * [FObersteiner/zdt](https://github.com/FObersteiner/zdt) - Timezoned Datetime in Zig. For learning purposes.
@@ -319,9 +319,9 @@
 ### Command Line and Argument Parser
 
 * [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) ⭐ 1,621 | 🐛 7 | 🌐 Zig | 📅 2026-08-31 - A simple and easy to use command line argument parser library for Zig.
-* [sam701/zig-cli](https://github.com/sam701/zig-cli) ⭐ 355 | 🐛 8 | 🌐 Zig | 📅 2026-08-30 - A simple package for building command line apps in Zig.
+* [sam701/zig-cli](https://github.com/sam701/zig-cli) ⭐ 356 | 🐛 8 | 🌐 Zig | 📅 2026-08-30 - A simple package for building command line apps in Zig.
 * [xcaeser/zli](https://github.com/xcaeser/zli) ⭐ 337 | 🐛 1 | 🌐 Zig | 📅 2026-08-29 - Zig command-line interfaces made easy. A blazing fast CLI framework. Build ergonomic, high-performance command-line tools with Zig.
-* [MasterQ32/zig-args](https://github.com/MasterQ32/zig-args) ⭐ 310 | 🐛 10 | 🌐 Zig | 📅 2026-05-21 - Simple-to-use argument parser with struct-based config.
+* [MasterQ32/zig-args](https://github.com/MasterQ32/zig-args) ⭐ 310 | 🐛 11 | 🌐 Zig | 📅 2026-05-21 - Simple-to-use argument parser with struct-based config.
 * [PrajwalCH/yazap](https://github.com/PrajwalCH/yazap) ⭐ 207 | 🐛 9 | 🌐 Zig | 📅 2026-02-01 - The ultimate Zig library for seamless command line parsing. Effortlessly handles options, subcommands, and custom arguments with ease. [prajwalch.github.io/yazap](https://prajwalch.github.io/yazap).
 * [00JCIV00/cova](https://github.com/00JCIV00/cova) ⭐ 151 | 🐛 11 | 🌐 Zig | 📅 2026-09-19 - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library for Zig.
 * [jiacai2050/zigcli](https://github.com/jiacai2050/zigcli) ⭐ 135 | 🐛 8 | 🌐 Zig | 📅 2026-09-16 - A toolkit for building command lines programs in Zig.
@@ -345,7 +345,7 @@
 * [kprotty/zap](https://github.com/kprotty/zap) ⭐ 551 | 🐛 1 | 🌐 Zig | 📅 2025-01-02 - An asynchronous runtime with a focus on performance and resource efficiency.
 * [lithdew/pike](https://github.com/lithdew/pike) ⭐ 143 | 🐛 13 | 🌐 Zig | 📅 2023-03-25 - Async I/O for Zig.
 * [Thomvanoorschot/backstage](https://github.com/Thomvanoorschot/backstage) ⭐ 46 | 🐛 3 | 🌐 Zig | 📅 2025-08-08 - Concurrent Actor framework.
-* [neurocyte/thespian](https://github.com/neurocyte/thespian) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2026-09-18 - An actor library for Zig, C & C++ applications.
+* [neurocyte/thespian](https://github.com/neurocyte/thespian) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2026-09-18 - An actor library for Zig, C & C++ applications.
 * [floscodes/coroutinez](https://github.com/floscodes/coroutinez) ⭐ 8 | 🐛 0 | 🌐 Zig | 📅 2026-05-28 - A small runtime for running tasks using coroutines in Zig.
 
 ### Multithreading
@@ -356,7 +356,7 @@
 
 * [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) ⭐ 2,283 | 🐛 82 | 🌐 Zig | 📅 2026-09-19 - Unified abstraction layer and HAL for several microcontrollers.
 * [markfirmware/zig-bare-metal-raspberry-pi](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) ⭐ 107 | 🐛 6 | 🌐 Zig | 📅 2020-01-19 - Bare metal raspberry pi program written in Zig.
-* [lupyuen/pinephone-nuttx](https://github.com/lupyuen/pinephone-nuttx) ⭐ 102 | 🐛 0 | 🌐 Zig | 📅 2026-09-23 - Apache NuttX RTOS for PinePhone. Apache NuttX is a lightweight Real-Time Operating System (RTOS) that runs on PINE64 PinePhone. [lupyuen.github.io/articles/what](https://lupyuen.github.io/articles/what).
+* [lupyuen/pinephone-nuttx](https://github.com/lupyuen/pinephone-nuttx) ⭐ 102 | 🐛 0 | 🌐 Zig | 📅 2026-09-24 - Apache NuttX RTOS for PinePhone. Apache NuttX is a lightweight Real-Time Operating System (RTOS) that runs on PINE64 PinePhone. [lupyuen.github.io/articles/what](https://lupyuen.github.io/articles/what).
 * [ZigEmbeddedGroup/raspberrypi-rp2040](https://github.com/ZigEmbeddedGroup/raspberrypi-rp2040) ⚠️ Archived - MicroZig Hardware Support Package for Raspberry Pi RP2040.
 * [ZigEmbeddedGroup/regz](https://github.com/ZigEmbeddedGroup/regz) ⚠️ Archived - Generate Zig code from ATDF or SVD files for microcontrollers.
 * [tralamazza/embedded\_zig](https://github.com/tralamazza/embedded_zig) ⭐ 84 | 🐛 3 | 🌐 Zig | 📅 2020-10-29 - A minimal Zig embedded ARM example (STM32F103 blue pill).
@@ -376,7 +376,7 @@
 ### Operating Systems
 
 * [ZystemOS/Pluto](https://github.com/ZystemOS/pluto) ⭐ 736 | 🐛 34 | 🌐 Zig | 📅 2024-01-03 - An x86 kernel written in Zig.
-* [AndreaOrru/zen](https://github.com/AndreaOrru/zen) ⭐ 533 | 🐛 1 | 🌐 Zig | 📅 2025-09-21 - Experimental operating system written in Zig.
+* [AndreaOrru/zen](https://github.com/AndreaOrru/zen) ⭐ 534 | 🐛 1 | 🌐 Zig | 📅 2025-09-21 - Experimental operating system written in Zig.
 * [marlersoft/zigwin32](https://github.com/marlersoft/zigwin32) ⭐ 452 | 🐛 30 | 🌐 Zig | 📅 2026-07-23 - A complete autogenerated set of Zig bindings for the Win32 API.
 * [jzck/kernel-zig](https://github.com/jzck/kernel-zig) ⭐ 438 | 🐛 2 | 🌐 Zig | 📅 2023-08-21 - Hobby x86 kernel Zig.
 * [TalonFloof/zorroOS](https://github.com/TalonFloof/zorroOS) ⭐ 150 | 🐛 1 | 🌐 Zig | 📅 2025-03-16 - Hobby operating system written in Zig.
@@ -404,9 +404,9 @@
 
 * [Aro](https://github.com/Vexu/arocc) ⭐ 1,807 | 🐛 47 | 🌐 Zig | 📅 2026-09-16 - A C compiler with the goal of providing fast compilation and low memory usage with good diagnostics.
 * [buzz](https://github.com/buzz-language/buzz) ⭐ 1,531 | 🐛 80 | 🌐 Zig | 📅 2026-08-27 - A small/lightweight statically typed scripting language.
-* [fubark/cyber](https://github.com/fubark/cyber) ⭐ 1,520 | 🐛 37 | 🌐 Zig | 📅 2025-12-21 - Fast and concurrent scripting.
-* [Vexu/bog](https://github.com/Vexu/bog) ⭐ 603 | 🐛 6 | 🌐 Zig | 📅 2025-03-10 - Small, strongly typed, embeddable language.
-* [Fun](https://github.com/omdxp/fun) ⭐ 326 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-23 - A statically-typed language that transpiles to C, combining safety and performance with C's efficiency.
+* [fubark/cyber](https://github.com/fubark/cyber) ⭐ 1,521 | 🐛 37 | 🌐 Zig | 📅 2025-12-21 - Fast and concurrent scripting.
+* [Vexu/bog](https://github.com/Vexu/bog) ⭐ 604 | 🐛 6 | 🌐 Zig | 📅 2025-03-10 - Small, strongly typed, embeddable language.
+* [Fun](https://github.com/omdxp/fun) ⭐ 326 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-24 - A statically-typed language that transpiles to C, combining safety and performance with C's efficiency.
 * [squeek502/zua](https://github.com/squeek502/zua) ⭐ 212 | 🐛 0 | 🌐 Zig | 📅 2024-03-10 - An implementation of Lua 5.1 in Zig, for learning purposes.
 * [Element 0](https://github.com/Element0Lang/element-0) ⭐ 28 | 🐛 4 | 🌐 Zig | 📅 2026-09-06 - A small embeddable Lisp dialect written in Zig.
 * [fury](https://github.com/fury-lang/fury) ⭐ 15 | 🐛 10 | 🌐 Zig | 📅 2025-03-11 - A gradual, safe systems language.
@@ -429,15 +429,15 @@
 
 ### Kernel and Containers
 
-* [zbpf](https://github.com/tw4452852/zbpf) ⭐ 278 | 🐛 5 | 🌐 Zig | 📅 2026-04-19 - Writing eBPF in Zig.
+* [zbpf](https://github.com/tw4452852/zbpf) ⭐ 279 | 🐛 5 | 🌐 Zig | 📅 2026-04-19 - Writing eBPF in Zig.
 * [oci-spec-zig](https://github.com/navidys/oci-spec-zig) ⭐ 13 | 🐛 0 | 🌐 Zig | 📅 2026-06-22 - OCI (Open Container Initiative) runtime, image and distribution spec in Zig.
 
 ## Network & Web
 
 ### Network
 
-* [sleep3r/mtproto.zig](https://github.com/sleep3r/mtproto.zig) ⭐ 1,959 | 🐛 5 | 🌐 Zig | 📅 2026-09-18 - High-performance Telegram MTProto proxy written in Zig.
-* [karlseguin/http.zig](https://github.com/karlseguin/http.zig) ⭐ 1,603 | 🐛 15 | 🌐 Zig | 📅 2026-08-26 - An HTTP/1.1 server for Zig.
+* [sleep3r/mtproto.zig](https://github.com/sleep3r/mtproto.zig) ⭐ 1,974 | 🐛 5 | 🌐 Zig | 📅 2026-09-18 - High-performance Telegram MTProto proxy written in Zig.
+* [karlseguin/http.zig](https://github.com/karlseguin/http.zig) ⭐ 1,605 | 🐛 15 | 🌐 Zig | 📅 2026-08-26 - An HTTP/1.1 server for Zig.
 * [tardy-org/zzz](https://github.com/tardy-org/zzz) ⭐ 786 | 🐛 17 | 🌐 Zig | 📅 2026-09-16 - A framework for writing performant and reliable networked services in Zig. Supports HTTP and HTTPS.
 * [Vexu/routez](https://github.com/Vexu/routez) ⚠️ Archived - HTTP server for Zig.
 * [ducdetronquito/h11](https://github.com/ducdetronquito/h11) ⚠️ Archived - I/O-free HTTP/1.1 implementation inspired by hyper/h11.
@@ -458,7 +458,7 @@
 * [Thomvanoorschot/async\_zocket](https://github.com/Thomvanoorschot/async_zocket) ⭐ 13 | 🐛 0 | 🌐 Zig | 📅 2025-07-31 - Async WebSocket library for Zig, able to run concurrently on a single thread.
 * [cocky-punch/raft](https://github.com/cocky-punch/raft) ⭐ 13 | 🐛 0 | 🌐 Zig | 📅 2025-11-24 - Raft consensus algorithm implemented in Zig.
 * [connectFree/ZigZag](https://github.com/connectFree/ZigZag) ⭐ 12 | 🐛 0 | 📅 2018-10-16 - Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard.
-* [zig-nostr/nostr](https://github.com/zig-nostr/nostr) ⭐ 10 | 🐛 4 | 🌐 Zig | 📅 2026-09-23 - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
+* [zig-nostr/nostr](https://github.com/zig-nostr/nostr) ⭐ 10 | 🐛 3 | 🌐 Zig | 📅 2026-09-24 - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
 * [gernest/url](https://github.com/gernest/url) ⭐ 7 | 🐛 0 | 🌐 Zig | 📅 2019-10-24 - This is RFC 3986 compliant url parser for Zig.
 * [g41797/beanstalkz](https://github.com/g41797/beanstalkz) ⭐ 7 | 🐛 0 | 🌐 Zig | 📅 2026-06-18 - Thread-safe client library for [beanstalkd](https://pmatseykanets.github.io/beanstalkd-docs/), a queue for background job processing.
 * [zigtls](https://github.com/Geun-Oh/zigtls) ⭐ 6 | 🐛 0 | 🌐 Zig | 📅 2026-03-04 - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
@@ -470,7 +470,7 @@
 
 ### Browser
 
-* [lightpanda-io/browser](https://github.com/lightpanda-io/browser) ⭐ 35,521 | 🐛 80 | 🌐 Zig | 📅 2026-09-23 - Headless browser designed for AI and automation.
+* [lightpanda-io/browser](https://github.com/lightpanda-io/browser) ⭐ 35,544 | 🐛 79 | 🌐 Zig | 📅 2026-09-24 - Headless browser designed for AI and automation.
 
 ### Web Framework
 
@@ -479,7 +479,7 @@
 * [jetzig-framework/jetzig](https://github.com/jetzig-framework/jetzig) ⭐ 1,512 | 🐛 40 | 🌐 Zig | 📅 2026-06-12 - Jetzig is a web framework written in Zig.
 * [cztomsik/tokamak](https://github.com/cztomsik/tokamak) ⭐ 635 | 🐛 5 | 🌐 Zig | 📅 2026-09-20 - Web framework that leverages dependency injection for clean, modular application development.
 * [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) ⭐ 520 | 🐛 10 | 🌐 Zig | 📅 2026-08-23 - A WebSocket implementation for Zig.
-* [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) ⭐ 343 | 🐛 29 | 🌐 Zig | 📅 2026-09-21 - A full-stack web framework for Zig.
+* [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) ⭐ 343 | 🐛 29 | 🌐 Zig | 📅 2026-09-24 - A full-stack web framework for Zig.
 * [zon-dev/zinc](https://github.com/zon-dev/zinc) ⭐ 188 | 🐛 2 | 🌐 Zig | 📅 2026-09-20 - Zinc is a web framework written in pure Zig with a focus on high performance, usability, security, and extensibility.
 * [nikneym/ws](https://github.com/nikneym/ws) ⭐ 71 | 🐛 5 | 🌐 Zig | 📅 2024-02-22 - WebSocket library for Zig ⚡.
 * [floscodes/zerve](https://github.com/floscodes/zerve) ⭐ 68 | 🐛 0 | 🌐 Zig | 📅 2026-04-06 - A simple framework for writing web services in Zig.
@@ -487,9 +487,9 @@
 * [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) ⭐ 43 | 🐛 2 | 🌐 HTML | 📅 2020-01-07 - Zig fmt on the web.
 * [leroycep/zig-jwt](https://github.com/leroycep/zig-jwt) ⭐ 42 | 🐛 2 | 🌐 Zig | 📅 2025-08-21 - JSON Web Tokens for Zig.
 * [uzyn/passcay](https://github.com/uzyn/passcay) ⭐ 40 | 🐛 0 | 🌐 Zig | 📅 2026-06-23 - Secure Passkey authentication (WebAuthn) library for Zig.
-* [im-ng/zero](https://github.com/im-ng/zero) ⭐ 31 | 🐛 2 | 🌐 Zig | 📅 2026-09-23 - Simple and opinionated web framework written in Zig and aims to make microservices development in Zig easier.
+* [im-ng/zero](https://github.com/im-ng/zero) ⭐ 32 | 🐛 2 | 🌐 Zig | 📅 2026-09-24 - Simple and opinionated web framework written in Zig and aims to make microservices development in Zig easier.
 * [by-nir/aws-lambda-zig](https://github.com/by-nir/aws-lambda-zig) ⭐ 21 | 🐛 1 | 🌐 Zig | 📅 2026-08-26 - Super-fast AWS Lambda runtime for Zig.
-* [deatil/zig-jwt](https://github.com/deatil/zig-jwt) ⭐ 21 | 🐛 0 | 🌐 Zig | 📅 2026-09-12 - A JWT(JSON Web Token) library for Zig.
+* [deatil/zig-jwt](https://github.com/deatil/zig-jwt) ⭐ 21 | 🐛 0 | 🌐 Zig | 📅 2026-09-24 - A JWT(JSON Web Token) library for Zig.
 * [kivikakk/htmlentities.zig](https://github.com/kivikakk/htmlentities.zig) ⭐ 14 | 🐛 0 | 🌐 Zig | 📅 2026-02-01 - HTML entity data for Zig.
 * [deatil/zig-totp](https://github.com/deatil/zig-totp) ⭐ 10 | 🐛 0 | 🌐 Zig | 📅 2026-07-02 - A TOTP(Time-based One-Time Password) library for Zig.
 * [deatil/zig-paseto](https://github.com/deatil/zig-paseto) ⭐ 3 | 🐛 0 | 🌐 Zig | 📅 2026-09-12 - A PASETO (Platform-Agnostic SEcurity TOkens) library for Zig.
@@ -499,15 +499,15 @@
 
 ### Web3 Framework
 
-* [Syndica/sig](https://github.com/Syndica/sig) ⭐ 405 | 🐛 93 | 🌐 Zig | 📅 2026-07-31 - A Solana Zig RPC Client implementation.
+* [Syndica/sig](https://github.com/Syndica/sig) ⭐ 406 | 🐛 93 | 🌐 Zig | 📅 2026-07-31 - A Solana Zig RPC Client implementation.
 * [lithdew/rheia](https://github.com/lithdew/rheia) ⭐ 291 | 🐛 6 | 🌐 Zig | 📅 2022-02-28 - A Blockchain written in Zig.
 * [Raiden1411/zabi](https://github.com/Raiden1411/zabi) ⭐ 116 | 🐛 8 | 🌐 Zig | 📅 2026-05-26 - Zabi aims to add support for interacting with Ethereum or any compatible EVM based chain.
 * [blockblaz/zeam](https://github.com/blockblaz/zeam) ⭐ 97 | 🐛 105 | 🌐 Zig | 📅 2026-07-23 - A [Beam Chain](https://github.com/blockblaz/zeam/blob/main/resources/beam.md) ⭐ 97 | 🐛 105 | 🌐 Zig | 📅 2026-07-23 written in Zig.
 * [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) ⭐ 88 | 🐛 18 | 🌐 Zig | 📅 2024-08-20 - A Zig implementation of Cairo VM for Cairo, the STARK powered provable language.
-* [StrobeLabs/eth.zig](https://github.com/StrobeLabs/eth.zig) ⭐ 85 | 🐛 30 | 🌐 C | 📅 2026-09-22 - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
+* [StrobeLabs/eth.zig](https://github.com/StrobeLabs/eth.zig) ⭐ 85 | 🐛 31 | 🌐 C | 📅 2026-09-22 - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
 * [jsign/verkle-crypto](https://github.com/jsign/verkle-crypto) ⭐ 42 | 🐛 0 | 🌐 Zig | 📅 2024-06-14 - Cryptography for Ethereum Verkle Trees.
 * [zen-eth/zig-libp2p](https://github.com/zen-eth/zig-libp2p) ⭐ 39 | 🐛 7 | 🌐 Zig | 📅 2026-07-27 - Zig implementation of [libp2p](https://libp2p.io/), a modular network stack that allows you to build your own peer-to-peer applications.
-* [blockblaz/ssz.zig](https://github.com/blockblaz/ssz.zig) ⭐ 34 | 🐛 17 | 🌐 Zig | 📅 2026-09-01 - A Zig implementation of the [SSZ serialization protocol](https://github.com/ethereum/eth2.0-specs/blob/dev/ssz/simple-serialize.md) ⭐ 3,966 | 🐛 69 | 🌐 Python | 📅 2026-09-23.
+* [blockblaz/ssz.zig](https://github.com/blockblaz/ssz.zig) ⭐ 34 | 🐛 17 | 🌐 Zig | 📅 2026-09-01 - A Zig implementation of the [SSZ serialization protocol](https://github.com/ethereum/eth2.0-specs/blob/dev/ssz/simple-serialize.md) ⭐ 3,966 | 🐛 70 | 🌐 Python | 📅 2026-09-24.
 * [iskyd/walle](https://github.com/iskyd/walle) ⭐ 25 | 🐛 5 | 🌐 Zig | 📅 2025-04-11 - A Bitcoin Wallet written in Zig.
 * [ch4r10t33r/zigeth](https://github.com/ch4r10t33r/zigeth) ⭐ 21 | 🐛 16 | 🌐 Zig | 📅 2026-07-07 - Zig package to interact with Ethereum (inspired from alloy-rs).
 * [blockblaz/hash-zig](https://github.com/blockblaz/hash-zig) ⭐ 11 | 🐛 2 | 🌐 Zig | 📅 2026-03-06 - A pure Zig implementation of hash based signatures inspired from the rust implementation.
@@ -538,12 +538,12 @@
 
 ### Database
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,078 | 🐛 113 | 🌐 Zig | 📅 2026-08-31 - The distributed financial accounting database designed for mission critical safety and performance. [tigerbeetle.com](https://tigerbeetle.com/).
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,082 | 🐛 115 | 🌐 Zig | 📅 2026-08-31 - The distributed financial accounting database designed for mission critical safety and performance. [tigerbeetle.com](https://tigerbeetle.com/).
 * [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) ⭐ 619 | 🐛 6 | 🌐 C | 📅 2026-09-11 - Zig-SQLite is a small wrapper around SQLite's C API, making it easier to use with Zig.
-* [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig) ⭐ 600 | 🐛 4 | 🌐 Zig | 📅 2026-09-18 - Native PostgreSQL driver / client for Zig.
+* [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig) ⭐ 600 | 🐛 5 | 🌐 Zig | 📅 2026-09-24 - Native PostgreSQL driver / client for Zig.
 * [kristoff-it/zig-okredis](https://github.com/kristoff-it/zig-okredis) ⭐ 293 | 🐛 3 | 🌐 Zig | 📅 2026-07-18 - Zero-allocation Client for Redis 6+.
 * [kristoff-it/redis-cuckoofilter](https://github.com/kristoff-it/redis-cuckoofilter) ⭐ 233 | 🐛 4 | 🌐 Zig | 📅 2020-03-05 - Hashing-function agnostic Cuckoo filters for Redis.
-* [karlseguin/zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) ⭐ 189 | 🐛 2 | 🌐 C | 📅 2026-04-20 - A DuckDB driver for Zig.
+* [karlseguin/zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) ⭐ 190 | 🐛 2 | 🌐 C | 📅 2026-04-20 - A DuckDB driver for Zig.
 * [speed2exe/myzql](https://github.com/speed2exe/myzql) ⭐ 77 | 🐛 4 | 🌐 Zig | 📅 2026-09-21 - MySQL and MariaDB driver in native Zig.
 * [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig) ⭐ 69 | 🐛 2 | 🌐 C | 📅 2024-04-23 - This repository has Zig bindings for SQLite. It tries to make the SQLite c API more Ziggish.
 * [seqor/seqor](https://github.com/seqor/seqor) ⭐ 64 | 🐛 1 | 🌐 Zig | 📅 2026-09-16 - Seqor is a cost-effective, Loki compatible database for logs.
@@ -574,25 +574,25 @@
 
 ### Machine Learning Framework
 
-* [zml](https://github.com/zml/zml) ⭐ 4,078 | 🐛 55 | 🌐 Zig | 📅 2026-09-23 - A high performance machine learning stack for Zig.
-* [Zigrad](https://github.com/Marco-Christiani/zigrad) ⭐ 195 | 🐛 14 | 🌐 Zig | 📅 2026-09-20 - A deep learning framework built on an autograd engine with high level abstractions and low level control. Trains neural networks 2.5x faster than PyTorch on Apple Silicon and 1.5x faster on CPU.
+* [zml](https://github.com/zml/zml) ⭐ 4,082 | 🐛 54 | 🌐 Zig | 📅 2026-09-24 - A high performance machine learning stack for Zig.
+* [Zigrad](https://github.com/Marco-Christiani/zigrad) ⭐ 195 | 🐛 14 | 🌐 Zig | 📅 2026-09-24 - A deep learning framework built on an autograd engine with high level abstractions and low level control. Trains neural networks 2.5x faster than PyTorch on Apple Silicon and 1.5x faster on CPU.
 * [SilasMarvin/dnns-from-scratch-in-zig](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) ⭐ 81 | 🐛 1 | 🌐 Zig | 📅 2024-08-25 - A very simple implementation of deep neural networks written in the Zig programming language.
 * [andrewCodeDev/ZEIN](https://github.com/andrewCodeDev/ZEIN) ⭐ 60 | 🐛 0 | 🌐 Zig | 📅 2024-10-29 - Zig-based implementation of tensors.
 * [recursiveGecko/onnxruntime.zig](https://github.com/recursiveGecko/onnxruntime.zig) ⭐ 36 | 🐛 0 | 🌐 Zig | 📅 2026-03-30 - Experimental Zig wrapper for ONNX Runtime with examples (Silero VAD, NSNet2).
 * [candrewlee14/zgml](https://github.com/candrewlee14/zgml) ⭐ 12 | 🐛 3 | 🌐 Zig | 📅 2026-06-28 - Tensor library for machine learning, inspired by ggml.
 * [myzonerocks/gosslens](https://github.com/myzonerocks/gosslens) ⭐ 7 | 🐛 1 | 🌐 Zig | 📅 2026-09-13 - Real-time visual plumbing for agents, with a from-scratch ONNX engine that runs published models on device. AI-assisted.
 * [maihd/zten](https://github.com/maihd/zten) ⭐ 6 | 🐛 0 | 🌐 Zig | 📅 2025-01-16 - Tensor library for Zig, based on ggml.
-* [ggml-zig](https://github.com/codingonion/ggml-zig) - A replacement for [ggml: Tensor library for machine learning](https://github.com/ggerganov/ggml) ⭐ 15,399 | 🐛 364 | 🌐 C++ | 📅 2026-09-23 written in Zig.
+* [ggml-zig](https://github.com/codingonion/ggml-zig) - A replacement for [ggml: Tensor library for machine learning](https://github.com/ggerganov/ggml) ⭐ 15,406 | 🐛 366 | 🌐 C++ | 📅 2026-09-24 written in Zig.
 
 ### Large Language Model
 
-* [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) ⭐ 8,102 | 🐛 96 | 🌐 Zig | 📅 2026-07-19 - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
-* [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) ⭐ 1,506 | 🐛 71 | 🌐 Zig | 📅 2026-09-22 - Native LLM inference server for Apple Silicon (MLX + GGUF) with OpenAI- and Anthropic-compatible APIs; ships MLX Core, a macOS menu-bar app. MIT.
+* [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) ⭐ 8,101 | 🐛 80 | 🌐 Zig | 📅 2026-09-24 - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
+* [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) ⭐ 1,527 | 🐛 75 | 🌐 Zig | 📅 2026-09-24 - Native LLM inference server for Apple Silicon (MLX + GGUF) with OpenAI- and Anthropic-compatible APIs; ships MLX Core, a macOS menu-bar app. MIT.
 * [cgbur/LLaMa2.zig](https://github.com/cgbur/llama2.zig) ⭐ 222 | 🐛 2 | 🌐 Zig | 📅 2026-08-02 - Inference LLaMA 2 in one file of pure Zig.
 * [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) ⭐ 95 | 🐛 0 | 🌐 C | 📅 2023-08-11 - Zig build for a terminal-based chat client for an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMA.
 * [CogitatorTech/zigformer](https://github.com/CogitatorTech/zigformer) ⭐ 52 | 🐛 0 | 🌐 Zig | 📅 2025-11-27 - ZigFormer is a transformer-based LLM implemented in pure Zig.
 * [clebert/LLaMa2.zig](https://github.com/clebert/llama2.zig) ⚠️ Archived - Inference LLaMA 2 in pure Zig.
-* [EugenHotaj/zig\_gpt2](https://github.com/EugenHotaj/zig_gpt2) ⭐ 40 | 🐛 0 | 🌐 Zig | 📅 2023-07-24 - Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT](https://github.com/karpathy/nanoGPT) ⭐ 63,336 | 🐛 349 | 🌐 Python | 📅 2025-11-12.
+* [EugenHotaj/zig\_gpt2](https://github.com/EugenHotaj/zig_gpt2) ⭐ 40 | 🐛 0 | 🌐 Zig | 📅 2023-07-24 - Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT](https://github.com/karpathy/nanoGPT) ⭐ 63,353 | 🐛 349 | 🌐 Python | 📅 2025-11-12.
 * [ollama-zig](https://github.com/dravenk/ollama-zig) ⭐ 39 | 🐛 0 | 🌐 Zig | 📅 2025-06-29 - Ollama Zig library.
 * [cognisoc/zigllm](https://github.com/cognisoc/zigllm) ⭐ 11 | 🐛 1 | 🌐 Zig | 📅 2026-07-02 - Educational: build an LLM in Zig from scratch — tensors to text generation.
 * [cztomsik/clown-code](https://codeberg.org/cztomsik/clown-code) - AI Coding assistant.
@@ -626,7 +626,7 @@
 
 ### GPU Computing
 
-* [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) ⭐ 912 | 🐛 26 | 🌐 Zig | 📅 2026-08-30 - Vulkan binding generator for Zig.
+* [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) ⭐ 913 | 🐛 26 | 🌐 Zig | 📅 2026-08-30 - Vulkan binding generator for Zig.
 * [hexops/mach-gpu](https://github.com/hexops/mach-gpu) ⭐ 203 | 🐛 0 | 🌐 Zig | 📅 2024-07-08 - Provides a truly cross-platform graphics API for Zig (desktop, mobile, and web) with unified low-level graphics & compute backed by Vulkan, Metal, D3D12, and OpenGL (as a best-effort fallback).
 * [hexops/mach-gpu-dawn](https://github.com/hexops/mach-gpu-dawn) ⭐ 149 | 🐛 0 | 🌐 Zig | 📅 2024-07-08 - Google's Dawn WebGPU implementation, cross-compiled with Zig into a single static library.
 * [akhildevelops/cudaz](https://github.com/akhildevelops/cudaz) ⭐ 141 | 🐛 1 | 🌐 Zig | 📅 2026-05-04 - Cuda wrapper for interacting with GPUs in Zig.
@@ -639,14 +639,14 @@
 
 ### Graphics Library
 
-* [anomalyco/opentui](https://github.com/anomalyco/opentui) ⭐ 13,371 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-23 - A library for building terminal user interfaces.
-* [rockorager/libvaxis](https://github.com/rockorager/libvaxis) ⭐ 2,010 | 🐛 36 | 🌐 Zig | 📅 2026-09-08 - Modern TUI library written in Zig.
+* [anomalyco/opentui](https://github.com/anomalyco/opentui) ⭐ 13,379 | 🐛 155 | 🌐 TypeScript | 📅 2026-09-23 - A library for building terminal user interfaces.
+* [rockorager/libvaxis](https://github.com/rockorager/libvaxis) ⭐ 2,010 | 🐛 33 | 🌐 Zig | 📅 2026-09-23 - Modern TUI library written in Zig.
 * [ziglibs/zgl](https://github.com/ziglibs/zgl) ⭐ 627 | 🐛 4 | 🌐 Zig | 📅 2026-05-26 - Zig OpenGL Wrapper.
 * [MasterQ32/SDL.zig](https://github.com/MasterQ32/SDL.zig) ⭐ 447 | 🐛 19 | 🌐 C | 📅 2025-11-25 - A shallow wrapper around SDL that provides object API and error handling.
 * [fubark/cosmic](https://github.com/fubark/cosmic) ⭐ 361 | 🐛 17 | 🌐 Zig | 📅 2023-03-20 - A platform for computing and creating applications. [cosmic.ooo](https://www.cosmic.ooo/).
 * [vancluever/z2d](https://github.com/vancluever/z2d) ⭐ 302 | 🐛 15 | 🌐 Zig | 📅 2026-09-19 - A pure Zig 2D graphics library.
 * [TinyVG/sdk](https://github.com/TinyVG/sdk) ⭐ 301 | 🐛 17 | 🌐 Zig | 📅 2025-06-11 - TinyVG software development kit. [tinyvg.tech/](https://tinyvg.tech/).
-* [fabioarnold/nanovg-zig](https://github.com/fabioarnold/nanovg-zig) ⭐ 246 | 🐛 1 | 🌐 C | 📅 2026-01-29 - [NanoVG](https://github.com/memononen/nanovg) ⭐ 5,706 | 🐛 321 | 🌐 C | 📅 2026-02-19 - Zig Version. A small anti-aliased hardware-accelerated vector graphics library. [fabioarnold.github.io/nanovg-zig/](https://fabioarnold.github.io/nanovg-zig/).
+* [fabioarnold/nanovg-zig](https://github.com/fabioarnold/nanovg-zig) ⭐ 247 | 🐛 1 | 🌐 C | 📅 2026-01-29 - [NanoVG](https://github.com/memononen/nanovg) ⭐ 5,707 | 🐛 321 | 🌐 C | 📅 2026-02-19 - Zig Version. A small anti-aliased hardware-accelerated vector graphics library. [fabioarnold.github.io/nanovg-zig/](https://fabioarnold.github.io/nanovg-zig/).
 * [MasterQ32/zero-graphics](https://github.com/MasterQ32/zero-graphics) ⭐ 180 | 🐛 2 | 🌐 Zig | 📅 2023-02-10 - Application framework based on OpenGL ES 2.0. Runs on desktop machines, Android phones and the web.
 * [andrewrk/zig-vulkan-triangle](https://github.com/andrewrk/zig-vulkan-triangle) ⭐ 161 | 🐛 0 | 🌐 Zig | 📅 2026-07-02 - Simple triangle displayed using Vulkan, glfw, and Zig.
 * [craftlinks/zig\_learn\_opengl](https://github.com/craftlinks/zig_learn_opengl) ⭐ 150 | 🐛 1 | 🌐 Zig | 📅 2023-03-24 - Follow the Learn-OpenGL book using Zig.
@@ -656,7 +656,7 @@
 * [JonSnowbd/ZT](https://github.com/JonSnowbd/ZT) ⚠️ Archived - A Zig based Imgui Application framework.
 * [andrewrk/SDL](https://github.com/andrewrk/SDL) ⭐ 111 | 🐛 1 | 🌐 C | 📅 2026-06-17 - SDL with the build system replaced by Zig. [libsdl.org](https://libsdl.org/).
 * [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) ⭐ 100 | 🐛 1 | 🌐 Zig | 📅 2022-07-11 - A Zig implementation of the "Ray Tracing in One Weekend" book.
-* [renerocksai/slides](https://github.com/renerocksai/slides) ⚠️ Archived - This project is both a case study and also marks my first steps in the programming language Zig, towards creating a simple but powerful [imgui](https://github.com/ocornut/imgui/wiki#about-the-imgui-paradigm) ⭐ 76,324 | 🐛 1,225 | 🌐 C++ | 📅 2026-09-22 based, OpenGL-rendered slideshow app in Zig.
+* [renerocksai/slides](https://github.com/renerocksai/slides) ⚠️ Archived - This project is both a case study and also marks my first steps in the programming language Zig, towards creating a simple but powerful [imgui](https://github.com/ocornut/imgui/wiki#about-the-imgui-paradigm) ⭐ 76,338 | 🐛 1,223 | 🌐 C++ | 📅 2026-09-24 based, OpenGL-rendered slideshow app in Zig.
 * [Thomvanoorschot/zignite](https://github.com/Thomvanoorschot/zignite) ⭐ 43 | 🐛 1 | 🌐 Zig | 📅 2025-07-05 - Simple cross platform rendering engine able to compile to WebAssembly with WebWorkers support.
 * [zsdl3](https://github.com/felixuxx/zsdl3) ⭐ 37 | 🐛 4 | 🌐 Zig | 📅 2026-07-05 - SDL3 bindings for Zig.
 * [SpexGuy/Zig-Gltf-Display](https://github.com/SpexGuy/Zig-Gltf-Display) ⭐ 36 | 🐛 1 | 🌐 C++ | 📅 2024-03-22 - A program that displays glTF files using Vulkan, written in Zig.
@@ -670,11 +670,11 @@
 
 ### GUI
 
-* [Capy](https://github.com/capy-ui/capy) ⭐ 2,699 | 🐛 25 | 🌐 Zig | 📅 2025-12-25 - Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/).
-* [david-vanderson/dvui](https://github.com/david-vanderson/dvui) ⭐ 1,668 | 🐛 106 | 🌐 Zig | 📅 2026-09-22 - Easy to Integrate Immediate Mode GUI for Zig.
-* [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui) ⭐ 832 | 🐛 7 | 🌐 Zig | 📅 2026-09-23 - Use any web browser or WebView as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
-* [meszmate/zigzag](https://github.com/meszmate/zigzag) ⭐ 559 | 🐛 8 | 🌐 Zig | 📅 2026-09-03 - The TUI Framework for Zig.
-* [rcalixte/libqt6zig](https://github.com/rcalixte/libqt6zig) ⭐ 268 | 🐛 0 | 🌐 Zig | 📅 2026-09-22 - Qt 6 for Zig.
+* [Capy](https://github.com/capy-ui/capy) ⭐ 2,700 | 🐛 25 | 🌐 Zig | 📅 2025-12-25 - Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/).
+* [david-vanderson/dvui](https://github.com/david-vanderson/dvui) ⭐ 1,669 | 🐛 104 | 🌐 Zig | 📅 2026-09-24 - Easy to Integrate Immediate Mode GUI for Zig.
+* [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui) ⭐ 832 | 🐛 7 | 🌐 Zig | 📅 2026-09-24 - Use any web browser or WebView as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
+* [meszmate/zigzag](https://github.com/meszmate/zigzag) ⭐ 562 | 🐛 8 | 🌐 Zig | 📅 2026-09-03 - The TUI Framework for Zig.
+* [rcalixte/libqt6zig](https://github.com/rcalixte/libqt6zig) ⭐ 268 | 🐛 0 | 🌐 Zig | 📅 2026-09-23 - Qt 6 for Zig.
 * [ziglibs/positron](https://github.com/ziglibs/positron) ⭐ 126 | 🐛 2 | 🌐 C++ | 📅 2024-07-20 - A web renderer frontend for Zig applications.
 * [batiati/IUPforZig](https://github.com/batiati/IUPforZig) ⚠️ Archived - IUP (Portable User Interface Toolkit) bindings for the Zig language.
 * [kassane/qml\_zig](https://github.com/kassane/qml_zig) ⭐ 123 | 🐛 2 | 🌐 Zig | 📅 2025-05-19 - QML bindings for the Zig programming language.
@@ -691,9 +691,9 @@
 ### Game Development
 
 * [Mach](https://github.com/hexops/mach) ⭐ 4,843 | 🐛 167 | 🌐 Zig | 📅 2026-05-23 - A game engine & graphics toolkit for the future. machengine.org.
-* [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) ⭐ 3,668 | 🐛 914 | 🌐 Zig | 📅 2026-09-20 - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+* [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) ⭐ 3,669 | 🐛 913 | 🌐 Zig | 📅 2026-09-20 - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 * [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) ⭐ 2,864 | 🐛 37 | 🌐 Zig | 📅 2026-03-08 - Building game development ecosystem for @ziglang.
-* [andrewrk/tetris](https://github.com/andrewrk/tetris) ⭐ 491 | 🐛 0 | 🌐 Zig | 📅 2026-05-29 - A simple tetris clone written in Zig programming language. [www.youtube.com/watch?v=AiintPutWrE](https://www.youtube.com/watch?v=AiintPutWrE).
+* [andrewrk/tetris](https://github.com/andrewrk/tetris) ⭐ 492 | 🐛 0 | 🌐 Zig | 📅 2026-05-29 - A simple tetris clone written in Zig programming language. [www.youtube.com/watch?v=AiintPutWrE](https://www.youtube.com/watch?v=AiintPutWrE).
 * [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) ⭐ 387 | 🐛 7 | 🌐 Zig | 📅 2025-07-19 - Work in progress SDK for creating Game Boy Advance games using Zig programming language.
 * [Jack-Ji/jok](https://github.com/Jack-Ji/jok) ⚠️ Archived - A minimal 2d/3d game framework for Zig.
 * [foxnne/aftersun](https://github.com/foxnne/aftersun) ⭐ 305 | 🐛 3 | 🌐 Zig | 📅 2024-06-10 - Top-down 2D RPG.
@@ -741,10 +741,10 @@
 
 ### Image and Video Processing
 
-* [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) ⭐ 3,208 | 🐛 15 | 🌐 Zig | 📅 2026-08-24 - ODiff - A very fast SIMD-first image comparison library (with Node.js API).
-* [zigimg/zigimg](https://github.com/zigimg/zigimg) ⭐ 841 | 🐛 51 | 🌐 Zig | 📅 2026-09-22 - Zig library for reading and writing different image formats.
-* [freref/fancy-cat](https://github.com/freref/fancy-cat) ⭐ 562 | 🐛 20 | 🌐 Zig | 📅 2026-08-03 - PDF reader inside the terminal.
-* [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal) ⭐ 461 | 🐛 0 | 🌐 Zig | 📅 2026-09-23 - Image processing library in Zig, heavily inspired by dlib.
+* [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) ⭐ 3,212 | 🐛 15 | 🌐 Zig | 📅 2026-08-24 - ODiff - A very fast SIMD-first image comparison library (with Node.js API).
+* [zigimg/zigimg](https://github.com/zigimg/zigimg) ⭐ 841 | 🐛 49 | 🌐 Zig | 📅 2026-09-23 - Zig library for reading and writing different image formats.
+* [freref/fancy-cat](https://github.com/freref/fancy-cat) ⭐ 563 | 🐛 20 | 🌐 Zig | 📅 2026-08-03 - PDF reader inside the terminal.
+* [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal) ⭐ 462 | 🐛 0 | 🌐 Zig | 📅 2026-09-24 - Image processing library in Zig, heavily inspired by dlib.
 * [ryoppippi/zigcv](https://github.com/ryoppippi/zigcv) ⭐ 162 | 🐛 25 | 🌐 Zig | 📅 2026-09-18 - Opencv bindings for Zig.
 * [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) ⭐ 21 | 🐛 7 | 🌐 Zig | 📅 2023-09-03 - Zig bindings for libVLC media framework.
 * [marler8997/image-viewer](https://github.com/marler8997/image-viewer) ⭐ 10 | 🐛 2 | 🌐 Zig | 📅 2025-05-04 - An image-viewer experiment written in Zig.
@@ -760,7 +760,7 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 * [fulcrum-so/ziggy-pydust](https://github.com/fulcrum-so/ziggy-pydust) ⭐ 792 | 🐛 46 | 🌐 Zig | 📅 2026-09-21 - A toolkit for building Python extensions in Zig. [pydust.fulcrum.so/](https://pydust.fulcrum.so/).
 * [floooh/sokol-zig](https://github.com/floooh/sokol-zig) ⭐ 730 | 🐛 13 | 🌐 C | 📅 2026-09-14 - Zig bindings for the sokol headers.
 * [natecraddock/ziglua](https://github.com/natecraddock/ziglua) ⭐ 522 | 🐛 9 | 🌐 Zig | 📅 2026-09-03 - Zig bindings for the Lua C API.
-* [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) ⭐ 351 | 🐛 4 | 🌐 Zig | 📅 2026-04-17 - Objective-C runtime bindings for Zig (Zig calling ObjC).
+* [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) ⭐ 352 | 🐛 4 | 🌐 Zig | 📅 2026-04-17 - Objective-C runtime bindings for Zig (Zig calling ObjC).
 * [jiacai2050/zig-curl](https://github.com/jiacai2050/zig-curl) ⭐ 161 | 🐛 3 | 🌐 Zig | 📅 2026-04-24 - Zig bindings for libcurl.
 * [lassade/c2z](https://github.com/lassade/c2z) ⭐ 126 | 🐛 9 | 🌐 C++ | 📅 2025-04-06 - C++ to Zig bindings and transpiler.
 * [sackosoft/zig-luajit](https://github.com/sackosoft/zig-luajit) ⭐ 86 | 🐛 2 | 🌐 Zig | 📅 2026-05-08 - Zig bindings for the LuaJIT C API.
@@ -768,7 +768,7 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 * [arshidkv12/zig-php](https://github.com/arshidkv12/zig-php) ⭐ 25 | 🐛 0 | 🌐 Zig | 📅 2025-09-14 - Write PHP extension in Zig.
 * [ExpidusOS/zig-flutter](https://github.com/ExpidusOS/zig-flutter) ⚠️ Archived - Flutter with Zig.
 * [jiacai2050/zig-rocksdb](https://github.com/jiacai2050/zig-rocksdb) ⭐ 6 | 🐛 1 | 🌐 Zig | 📅 2025-09-21 - Zig bindings for RocksDB.
-* [happystraw/phpz](https://github.com/happystraw/phpz) ⭐ 5 | 🐛 5 | 🌐 Zig | 📅 2026-09-23 - Build PHP extensions with Zig.
+* [happystraw/phpz](https://github.com/happystraw/phpz) ⭐ 5 | 🐛 5 | 🌐 Zig | 📅 2026-09-24 - Build PHP extensions with Zig.
 * [jiacai2050/zig-jemalloc](https://github.com/jiacai2050/zig-jemalloc) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2024-10-27 - Zig allocator baked by jemalloc.
 * [OnlyF0uR/pqc-zig](https://github.com/OnlyF0uR/pqc-zig) ⭐ 4 | 🐛 1 | 🌐 Zig | 📅 2025-05-01 - Zig bindings and abstractions for [PQClean](https://github.com/PQClean/PQClean/) ⚠️ Archived, post-quantum cryptography.
 * [pedronaugusto/zjolt](https://github.com/pedronaugusto/zjolt) ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2026-09-14 - Zig bindings for Jolt Physics — the whole runtime, from shapes and the step to constraints, characters, vehicles, ragdolls, soft bodies and hair. AI-assisted.
@@ -783,8 +783,8 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 
 Existing C/C++ projects that have replaced their original build systems with Zig's build system, enabling seamless cross-compilation and dependency management via `zig build`.
 
-* [raylib](https://github.com/raysan5/raylib/) ⭐ 34,840 | 🐛 16 | 🌐 C | 📅 2026-09-22 - A simple and easy-to-use library to enjoy videogames programming.
-* [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ⭐ 1,760 | 🐛 20 | 🌐 C | 📅 2026-07-07 - A C library for creating Excel XLSX files, build system replaced by Zig.
+* [raylib](https://github.com/raysan5/raylib/) ⭐ 34,849 | 🐛 16 | 🌐 C | 📅 2026-09-23 - A simple and easy-to-use library to enjoy videogames programming.
+* [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ⭐ 1,760 | 🐛 21 | 🌐 C | 📅 2026-07-07 - A C library for creating Excel XLSX files, build system replaced by Zig.
 * [FFmpeg](https://github.com/andrewrk/ffmpeg) ⭐ 323 | 🐛 9 | 🌐 C | 📅 2026-09-21 - Library FFmpeg with the build system replaced by Zig.
 * [openssl](https://github.com/kassane/openssl-zig) ⭐ 30 | 🐛 0 | 🌐 C | 📅 2026-04-20 - TLS/SSL and crypto library (uses Zig Build).
 * [pulseaudio](https://github.com/andrewrk/pulseaudio) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2026-07-03 - Library pulseaudio with the build system replaced by Zig.
@@ -817,4 +817,4 @@ Existing C/C++ projects that have replaced their original build systems with Zig
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

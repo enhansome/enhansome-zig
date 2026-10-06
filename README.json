@@ -49,10 +49,10 @@
                 "language": "Zig",
                 "license": "MIT",
                 "last_commit": "2026-10-05T00:40:45Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "zigtools",
                 "repo": "zls",
-                "stars": 5181,
+                "stars": 5182,
                 "topics": [
                   "language-server",
                   "lsp",
@@ -75,8 +75,8 @@
                 "id": 763201818,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:29:14Z",
-                "open_issues": 82,
+                "last_commit": "2026-10-05T21:28:59Z",
+                "open_issues": 77,
                 "owner": "neurocyte",
                 "repo": "flow",
                 "stars": 2456,
@@ -240,8 +240,8 @@
                 "id": 1009387544,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-04T06:02:40Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-06T09:53:26Z",
+                "open_issues": 8,
                 "owner": "KurtWagner",
                 "repo": "zlinter",
                 "stars": 99,
@@ -486,7 +486,7 @@
                 "open_issues": 18,
                 "owner": "nektro",
                 "repo": "zigmod",
-                "stars": 947,
+                "stars": 948,
                 "topics": [
                   "package-manager",
                   "zig"
@@ -510,7 +510,7 @@
                 "open_issues": 10,
                 "owner": "mitchellh",
                 "repo": "zig-overlay",
-                "stars": 554,
+                "stars": 555,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:28.433Z"
@@ -548,7 +548,7 @@
                 "id": 741782669,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-05T04:46:31Z",
+                "last_commit": "2026-10-06T05:31:14Z",
                 "open_issues": 6,
                 "owner": "Cloudef",
                 "repo": "zig2nix",
@@ -582,11 +582,11 @@
                 "id": 1205189436,
                 "language": "Zig",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T16:00:49Z",
+                "last_commit": "2026-10-06T11:01:00Z",
                 "open_issues": 1,
                 "owner": "indaco",
                 "repo": "malt",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "brew",
                   "cli",
@@ -695,7 +695,7 @@
                 "open_issues": 1,
                 "owner": "asdf-community",
                 "repo": "asdf-zig",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "asdf",
                   "asdf-plugin"
@@ -918,11 +918,11 @@
                 "id": 475553026,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-05T08:23:45Z",
-                "open_issues": 256,
+                "last_commit": "2026-10-06T05:05:38Z",
+                "open_issues": 258,
                 "owner": "ghostty-org",
                 "repo": "ghostty",
-                "stars": 61852,
+                "stars": 61885,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:28.433Z"
@@ -969,7 +969,7 @@
                 "open_issues": 28,
                 "owner": "neurosnap",
                 "repo": "zmx",
-                "stars": 2189,
+                "stars": 2191,
                 "topics": [
                   "ghostty",
                   "session-persistence",
@@ -1071,7 +1071,7 @@
                 "id": 1184683326,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-04T15:58:49Z",
+                "last_commit": "2026-10-06T10:46:20Z",
                 "open_issues": 0,
                 "owner": "midasdf",
                 "repo": "zt",
@@ -2024,7 +2024,7 @@
                 "id": 517929484,
                 "language": "Zig",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T23:19:53Z",
+                "last_commit": "2026-10-05T23:18:15Z",
                 "open_issues": 0,
                 "owner": "bcrist",
                 "repo": "Zig-TempAllocator",
@@ -2155,7 +2155,7 @@
                 "open_issues": 1,
                 "owner": "TheAlgorithms",
                 "repo": "Zig",
-                "stars": 414,
+                "stars": 415,
                 "topics": [
                   "algorithms",
                   "data-structures",
@@ -2675,6 +2675,31 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:28.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "guanchzhou/zig-hilbert",
+              "description": "Fast Hilbert curves, sortable marker keys, and S2 cell ids for Zig 0.17. AI-assisted.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fast Hilbert curves, marker keys, and S2 cell ids for Zig 0.17.",
+                "homepage": null,
+                "id": 1405311352,
+                "language": "Zig",
+                "license": "MIT",
+                "last_commit": "2026-10-05T13:00:26Z",
+                "open_issues": 0,
+                "owner": "guanchzhou",
+                "repo": "zig-hilbert",
+                "stars": 0,
+                "topics": [
+                  "zig",
+                  "zig-library",
+                  "zig-package"
+                ]
+              },
+              "first_seen": "2026-10-06T11:06:47.149Z"
             }
           ],
           "description": null,
@@ -3093,7 +3118,7 @@
                 "language": "Zig",
                 "license": "MIT",
                 "last_commit": "2026-10-04T21:59:51Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "Arwalk",
                 "repo": "zig-protobuf",
                 "stars": 437,
@@ -3370,34 +3395,6 @@
             },
             {
               "node_type": "item",
-              "title": "OrlovEvgeny/serde.zig",
-              "description": "Comptime serialization framework for Zig supporting JSON, MessagePack, TOML, YAML, ZON, and CSV.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Universal serialization for Zig: JSON, Yaml, XML, MessagePack, TOML, CSV and more from a single API. msgpack.org[Zig]",
-                "homepage": "https://zigshape.eorlov.org",
-                "id": 1174300317,
-                "language": "Zig",
-                "license": "MIT",
-                "last_commit": "2026-09-15T09:18:04Z",
-                "open_issues": 4,
-                "owner": "OrlovEvgeny",
-                "repo": "serde.zig",
-                "stars": 88,
-                "topics": [
-                  "json-serialization",
-                  "parser",
-                  "serde",
-                  "zig",
-                  "zig-library",
-                  "zig-package"
-                ]
-              },
-              "first_seen": "2026-08-28T19:29:28.433Z"
-            },
-            {
-              "node_type": "item",
               "title": "mitchellh/zig-libxml2",
               "description": "Libxml2 built using Zig build system.",
               "children": [],
@@ -3414,6 +3411,34 @@
                 "repo": "zig-libxml2",
                 "stars": 87,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T19:29:28.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OrlovEvgeny/serde.zig",
+              "description": "Comptime serialization framework for Zig supporting JSON, MessagePack, TOML, YAML, ZON, and CSV.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Universal serialization for Zig: JSON, Yaml, XML, MessagePack, TOML, CSV and more from a single API. msgpack.org[Zig]",
+                "homepage": "https://zigshape.eorlov.org",
+                "id": 1174300317,
+                "language": "Zig",
+                "license": "MIT",
+                "last_commit": "2026-09-15T09:18:04Z",
+                "open_issues": 4,
+                "owner": "OrlovEvgeny",
+                "repo": "serde.zig",
+                "stars": 87,
+                "topics": [
+                  "json-serialization",
+                  "parser",
+                  "serde",
+                  "zig",
+                  "zig-library",
+                  "zig-package"
+                ]
               },
               "first_seen": "2026-08-28T19:29:28.433Z"
             },
@@ -3781,7 +3806,7 @@
                 "id": 1347228435,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-05T06:01:22Z",
+                "last_commit": "2026-10-06T08:06:09Z",
                 "open_issues": 0,
                 "owner": "npmonster",
                 "repo": "yayl",
@@ -3810,7 +3835,7 @@
                 "id": 1369136526,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-05T13:53:20Z",
+                "last_commit": "2026-10-06T06:20:16Z",
                 "open_issues": 0,
                 "owner": "pedronaugusto",
                 "repo": "strand",
@@ -3919,7 +3944,7 @@
                 "id": 417982334,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-09-30T09:22:55Z",
+                "last_commit": "2026-10-06T09:53:49Z",
                 "open_issues": 1,
                 "owner": "nektro",
                 "repo": "zig-time",
@@ -4151,7 +4176,7 @@
                 "open_issues": 1,
                 "owner": "xcaeser",
                 "repo": "zli",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "cli",
                   "zig",
@@ -4318,7 +4343,7 @@
                 "open_issues": 0,
                 "owner": "judofyr",
                 "repo": "parg",
-                "stars": 51,
+                "stars": 50,
                 "topics": [
                   "argument-parser",
                   "zig",
@@ -4374,7 +4399,7 @@
                 "open_issues": 7,
                 "owner": "kioz-wang",
                 "repo": "zargs",
-                "stars": 32,
+                "stars": 31,
                 "topics": [
                   "argument-parser",
                   "clap-rs",
@@ -4755,11 +4780,11 @@
                 "id": 349134426,
                 "language": "Zig",
                 "license": "Zlib",
-                "last_commit": "2026-10-03T18:58:47Z",
-                "open_issues": 90,
+                "last_commit": "2026-10-06T02:34:41Z",
+                "open_issues": 92,
                 "owner": "ZigEmbeddedGroup",
                 "repo": "microzig",
-                "stars": 2289,
+                "stars": 2291,
                 "topics": [
                   "embedded",
                   "hal",
@@ -4807,7 +4832,7 @@
                 "id": 527142927,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T04:18:19Z",
+                "last_commit": "2026-10-06T05:06:35Z",
                 "open_issues": 0,
                 "owner": "lupyuen",
                 "repo": "pinephone-nuttx",
@@ -5762,7 +5787,7 @@
                 "id": 1369136820,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:09:02Z",
+                "last_commit": "2026-10-06T07:59:03Z",
                 "open_issues": 0,
                 "owner": "pedronaugusto",
                 "repo": "conduit",
@@ -5786,7 +5811,7 @@
                 "id": 1369136723,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:46:55Z",
+                "last_commit": "2026-10-06T05:13:13Z",
                 "open_issues": 0,
                 "owner": "pedronaugusto",
                 "repo": "lookout",
@@ -5821,7 +5846,7 @@
                 "open_issues": 50,
                 "owner": "Vexu",
                 "repo": "arocc",
-                "stars": 1841,
+                "stars": 1846,
                 "topics": [
                   "c",
                   "compiler",
@@ -5919,8 +5944,8 @@
                 "id": 856234366,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T09:00:47Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-06T07:29:35Z",
+                "open_issues": 1,
                 "owner": "omdxp",
                 "repo": "fun",
                 "stars": 322,
@@ -6028,7 +6053,7 @@
                 "id": 1087997866,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:15:18Z",
+                "last_commit": "2026-10-06T08:12:18Z",
                 "open_issues": 0,
                 "owner": "rotkonetworks",
                 "repo": "zish",
@@ -6395,7 +6420,7 @@
                 "open_issues": 6,
                 "owner": "sleep3r",
                 "repo": "mtproto.zig",
-                "stars": 2130,
+                "stars": 2132,
                 "topics": [
                   "amnezia-vpn",
                   "anti-censorship",
@@ -7019,7 +7044,7 @@
                 "id": 1296450280,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-04T18:38:11Z",
+                "last_commit": "2026-10-05T19:35:42Z",
                 "open_issues": 2,
                 "owner": "zig-nostr",
                 "repo": "nostr",
@@ -7172,6 +7197,31 @@
             },
             {
               "node_type": "item",
+              "title": "guanchzhou/zig-klient",
+              "description": "Kubernetes client library for Zig. AI-assisted.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Zig Kubernetes client",
+                "homepage": null,
+                "id": 1067391509,
+                "language": "Zig",
+                "license": "MIT",
+                "last_commit": "2026-09-18T12:46:46Z",
+                "open_issues": 0,
+                "owner": "guanchzhou",
+                "repo": "zig-klient",
+                "stars": 2,
+                "topics": [
+                  "zig",
+                  "zig-library",
+                  "zig-package"
+                ]
+              },
+              "first_seen": "2026-10-06T11:06:47.149Z"
+            },
+            {
+              "node_type": "item",
               "title": "zora",
               "description": "Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.",
               "children": [],
@@ -7210,11 +7260,11 @@
                 "id": 598667202,
                 "language": "Zig",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-05T16:08:26Z",
+                "last_commit": "2026-10-06T10:44:57Z",
                 "open_issues": 112,
                 "owner": "lightpanda-io",
                 "repo": "browser",
-                "stars": 36004,
+                "stars": 36016,
                 "topics": [
                   "browser",
                   "browser-automation",
@@ -7251,7 +7301,7 @@
                 "open_issues": 29,
                 "owner": "zigzap",
                 "repo": "zap",
-                "stars": 3416,
+                "stars": 3415,
                 "topics": [
                   "api",
                   "blazingly",
@@ -7377,8 +7427,8 @@
                 "id": 1085600516,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-05T09:50:00Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-06T02:48:54Z",
+                "open_issues": 24,
                 "owner": "ziex-dev",
                 "repo": "ziex",
                 "stars": 359,
@@ -7578,7 +7628,7 @@
                 "open_issues": 0,
                 "owner": "uzyn",
                 "repo": "passcay",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "authentication",
                   "fido2",
@@ -7607,7 +7657,7 @@
                 "id": 1097490466,
                 "language": "Zig",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T00:41:29Z",
+                "last_commit": "2026-10-06T01:59:04Z",
                 "open_issues": 2,
                 "owner": "im-ng",
                 "repo": "zero",
@@ -8652,10 +8702,10 @@
                 "language": "Zig",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T16:15:18Z",
-                "open_issues": 120,
+                "open_issues": 118,
                 "owner": "tigerbeetle",
                 "repo": "tigerbeetle",
-                "stars": 17139,
+                "stars": 17142,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:28.433Z"
@@ -8809,7 +8859,7 @@
                 "open_issues": 4,
                 "owner": "speed2exe",
                 "repo": "myzql",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "driver",
                   "mariadb",
@@ -9088,7 +9138,7 @@
                 "id": 1369136622,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:00:30Z",
+                "last_commit": "2026-10-06T04:53:01Z",
                 "open_issues": 0,
                 "owner": "pedronaugusto",
                 "repo": "chronicle",
@@ -9356,11 +9406,11 @@
                 "id": 858639154,
                 "language": "Zig",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T16:11:49Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-06T10:14:12Z",
+                "open_issues": 62,
                 "owner": "zml",
                 "repo": "zml",
-                "stars": 4138,
+                "stars": 4141,
                 "topics": [
                   "ai",
                   "bazel",
@@ -9572,7 +9622,7 @@
                 "open_issues": 68,
                 "owner": "nullclaw",
                 "repo": "nullclaw",
-                "stars": 8101,
+                "stars": 8102,
                 "topics": [
                   "ai",
                   "assistant",
@@ -9594,11 +9644,11 @@
                 "id": 1159656889,
                 "language": "Zig",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T14:28:20Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-06T03:36:16Z",
+                "open_issues": 52,
                 "owner": "ddalcu",
                 "repo": "mlx-serve",
-                "stars": 1758,
+                "stars": 1767,
                 "topics": [
                   "agent",
                   "anthropic-api",
@@ -10387,11 +10437,11 @@
                 "id": 1023522611,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T06:27:48Z",
-                "open_issues": 159,
+                "last_commit": "2026-10-06T07:00:01Z",
+                "open_issues": 160,
                 "owner": "anomalyco",
                 "repo": "opentui",
-                "stars": 13478,
+                "stars": 13485,
                 "topics": [
                   "opencode",
                   "opentui",
@@ -10416,7 +10466,7 @@
                 "open_issues": 34,
                 "owner": "rockorager",
                 "repo": "libvaxis",
-                "stars": 2020,
+                "stars": 2021,
                 "topics": [
                   "tui",
                   "zig",
@@ -11051,7 +11101,7 @@
                 "id": 1369136434,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:19:40Z",
+                "last_commit": "2026-10-06T02:36:19Z",
                 "open_issues": 0,
                 "owner": "pedronaugusto",
                 "repo": "morse",
@@ -11119,7 +11169,7 @@
                 "open_issues": 107,
                 "owner": "david-vanderson",
                 "repo": "dvui",
-                "stars": 1688,
+                "stars": 1689,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:28.433Z"
@@ -11136,7 +11186,7 @@
                 "id": 640035039,
                 "language": "Zig",
                 "license": "MIT",
-                "last_commit": "2026-09-24T07:00:15Z",
+                "last_commit": "2026-10-06T05:14:59Z",
                 "open_issues": 7,
                 "owner": "webui-dev",
                 "repo": "zig-webui",
@@ -11502,6 +11552,31 @@
                 ]
               },
               "first_seen": "2026-08-28T19:29:28.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "guanchzhou/c3s",
+              "description": "Kubernetes terminal interface written in Zig. AI-assisted.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fork of k9s in zig",
+                "homepage": null,
+                "id": 1066364899,
+                "language": "Zig",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-21T17:21:07Z",
+                "open_issues": 0,
+                "owner": "guanchzhou",
+                "repo": "c3s",
+                "stars": 1,
+                "topics": [
+                  "zig",
+                  "zig-application",
+                  "zig-program"
+                ]
+              },
+              "first_seen": "2026-10-06T11:06:47.149Z"
             }
           ],
           "description": null,
@@ -11555,10 +11630,10 @@
                 "language": "Zig",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-04T18:16:45Z",
-                "open_issues": 925,
+                "open_issues": 927,
                 "owner": "PixelGuys",
                 "repo": "Cubyz",
-                "stars": 3686,
+                "stars": 3687,
                 "topics": [
                   "3d-game",
                   "cubyz",
@@ -11589,7 +11664,7 @@
                 "open_issues": 37,
                 "owner": "zig-gamedev",
                 "repo": "zig-gamedev",
-                "stars": 2871,
+                "stars": 2872,
                 "topics": [
                   "cross-platform",
                   "d3d12",
@@ -12572,7 +12647,7 @@
                 "open_issues": 15,
                 "owner": "dmtrKovalenko",
                 "repo": "odiff",
-                "stars": 3224,
+                "stars": 3225,
                 "topics": [
                   "diff",
                   "hacktoberfest",
@@ -12824,7 +12899,7 @@
                 "open_issues": 46,
                 "owner": "spiraldb",
                 "repo": "ziggy-pydust",
-                "stars": 794,
+                "stars": 795,
                 "topics": [
                   "python",
                   "zig"
@@ -12874,7 +12949,7 @@
                 "open_issues": 9,
                 "owner": "natecraddock",
                 "repo": "ziglua",
-                "stars": 524,
+                "stars": 525,
                 "topics": [
                   "binding",
                   "library",
@@ -12903,7 +12978,7 @@
                 "open_issues": 4,
                 "owner": "mitchellh",
                 "repo": "zig-objc",
-                "stars": 355,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:29:28.433Z"
@@ -13363,11 +13438,11 @@
                 "id": 13836499,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-10-05T08:19:17Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-06T06:23:00Z",
+                "open_issues": 10,
                 "owner": "raysan5",
                 "repo": "raylib",
-                "stars": 34979,
+                "stars": 34986,
                 "topics": [
                   "android",
                   "c",
@@ -14144,7 +14219,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T16:12:04.564Z",
+    "last_updated": "2026-10-06T11:06:47.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of awesome Zig libraries and resources. ",
@@ -14152,11 +14227,11 @@
       "id": 579248567,
       "language": "Makefile",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-05T15:11:42Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-06T10:17:30Z",
+      "open_issues": 29,
       "owner": "zigcc",
       "repo": "awesome-zig",
-      "stars": 2516,
+      "stars": 2519,
       "topics": [
         "andrew-kelley",
         "awesome",
@@ -14170,7 +14245,7 @@
         "ziglang"
       ]
     },
-    "original_repository_sha": "8c3bfada8149b8a86fad27af8439f1ec7eed51fe",
+    "original_repository_sha": "12e288acbe5113df22871b396e117f81d1b214dc",
     "enhanced_repository": "enhansome/enhansome-zig",
     "enhanced_repository_description": null,
     "title": "Awesome Zig with stars"
